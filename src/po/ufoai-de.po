@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: UFO Alien Invasion\n"
 "Report-Msgid-Bugs-To: tlh2000@users.sourceforge.net\n"
 "POT-Creation-Date: 2017-10-12 13:21-0500\n"
-"PO-Revision-Date: 2016-09-17 19:12+0200\n"
+"PO-Revision-Date: 2021-03-06 18:08+0100\n"
 "Last-Translator: Martin Gerhardy <tlh2000@users.sourceforge.net>\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.8.9\n"
+"X-Generator: Poedit 2.4.2\n"
 "X-Poedit-SourceCharset: utf-8\n"
 "X-Poedit-Basepath: ..\n"
 
@@ -159,14 +159,12 @@ msgid "Oriental medium"
 msgstr "Orientalisch (mittel)"
 
 #: ../base/maps/oriental.ump:538
-#, fuzzy
 msgid "Oriental mosque"
-msgstr "Orientalisch (mittel)"
+msgstr "Orientalische Moschee"
 
 #: ../base/maps/oriental.ump:568
-#, fuzzy
 msgid "Oriental housing"
-msgstr "Orientalisch (groß)"
+msgstr "Orientalische Häuser"
 
 #: ../base/maps/rescue.ump:12 ../base/maps/rescue.ump:35
 #: ../base/maps/rescue.ump:55 ../base/maps/rescue.ump:75
@@ -198,7 +196,7 @@ msgstr "Städtische Disco"
 
 #: ../base/maps/urban.ump:318 ../base/ufos/maps.ufo:3179
 msgid "Clinic"
-msgstr ""
+msgstr "Klinik"
 
 #: ../base/maps/urban.ump:338 ../base/ufos/maps.ufo:3228
 msgid "Community Centre"
@@ -237,13 +235,12 @@ msgid "Bungalow"
 msgstr "Bungalow"
 
 #: ../base/maps/village.ump:835
-#, fuzzy
 msgid "Bungalow2"
-msgstr "Bungalow"
+msgstr "Bungalow2"
 
 #: ../base/maps/village.ump:857
 msgid "England"
-msgstr ""
+msgstr "England"
 
 #: ../base/maps/village.ump:877 ../base/ufos/maps.ufo:3707
 msgid "Estate"
@@ -256,14 +253,12 @@ msgid "Village"
 msgstr "Dorf"
 
 #: ../base/maps/village.ump:1042
-#, fuzzy
 msgid "Fighter crash"
-msgstr "UFO-Jgr."
+msgstr "Jäger Absturzstelle"
 
 #: ../base/maps/village.ump:1059
-#, fuzzy
 msgid "Small street"
-msgstr "Kleines Haus"
+msgstr "Kleine Straße"
 
 #: ../base/ufos/aircraftmanagement.ufo:134
 msgid "Firebird-class Dropship"
@@ -335,7 +330,7 @@ msgstr "UFO - Kundschafter"
 
 #: ../base/ufos/aircraftmanagement.ufo:533
 msgid "Scout U"
-msgstr "UFO-Kds."
+msgstr "Kundschafter U"
 
 #: ../base/ufos/aircraftmanagement.ufo:563 ../base/ufos/research.ufo:4054
 msgid "UFO - Fighter"
@@ -343,7 +338,7 @@ msgstr "UFO - Jäger"
 
 #: ../base/ufos/aircraftmanagement.ufo:564
 msgid "Fighter U"
-msgstr "UFO-Jgr."
+msgstr "Jäger U"
 
 #: ../base/ufos/aircraftmanagement.ufo:601 ../base/ufos/research.ufo:4353
 msgid "UFO - Harvester"
@@ -383,7 +378,7 @@ msgstr "UFO - Bomber"
 
 #: ../base/ufos/aircraftmanagement.ufo:798
 msgid "Bomber U"
-msgstr "UFO-Bomb."
+msgstr "UFO-Bomb"
 
 #: ../base/ufos/aircraftmanagement.ufo:866 ../base/ufos/research.ufo:4310
 msgid "UFO - Ripper"
@@ -1122,7 +1117,6 @@ msgid "Dublin"
 msgstr "Dublin"
 
 #: ../base/ufos/cities.ufo:723
-#, fuzzy
 msgid "Duesseldorf"
 msgstr "Düsseldorf"
 
@@ -2376,7 +2370,7 @@ msgstr "Warschau"
 
 #: ../base/ufos/cities.ufo:2607
 msgid "Washington"
-msgstr "Washington D.C."
+msgstr "Washington"
 
 #: ../base/ufos/cities.ufo:2613
 msgid "Wellington"
@@ -2548,17 +2542,17 @@ msgstr "UFO - Carrier"
 #: ../base/ufos/fonts.ufo:53 ../base/ufos/fonts.ufo:77
 #: ../base/ufos/fonts.ufo:83
 msgid "media/ufofan-bold.otf"
-msgstr ""
+msgstr "media/ufofan-bold.otf"
 
 #: ../base/ufos/fonts.ufo:17 ../base/ufos/fonts.ufo:29
 #: ../base/ufos/fonts.ufo:41 ../base/ufos/fonts.ufo:59
 #: ../base/ufos/fonts.ufo:71
 msgid "media/ufofan-medium.otf"
-msgstr ""
+msgstr "media/ufofan-medium.otf"
 
 #: ../base/ufos/fonts.ufo:65
 msgid "media/ufofan-light.otf"
-msgstr ""
+msgstr "media/ufofan-light.otf"
 
 #: ../base/ufos/fonts.ufo:89
 msgid "media/languages.ttf"
@@ -2571,9 +2565,8 @@ msgstr "media/languages.ttf"
 #: ../base/ufos/fonts.ufo:146 ../base/ufos/fonts.ufo:152
 #: ../base/ufos/fonts.ufo:158 ../base/ufos/fonts.ufo:164
 #: ../base/ufos/fonts.ufo:170
-#, fuzzy
 msgid "media/JuraDemiBold.ttf"
-msgstr "media/languages.ttf"
+msgstr "media/JuraDemiBold.ttf"
 
 #: ../base/ufos/gamemodes.ufo:16 ../base/ufos/ui/stats.ufo:91
 msgid "Campaign"
@@ -2923,7 +2916,6 @@ msgid "Basketball Stadium"
 msgstr "Basketball Stadion"
 
 #: ../base/ufos/maps.ufo:3468
-#, fuzzy
 msgid "Office complex"
 msgstr "Bürokomplex"
 
@@ -2933,7 +2925,7 @@ msgstr "Haus"
 
 #: ../base/ufos/maps.ufo:3661
 msgid "Small Village"
-msgstr "Ein kleines Dorf."
+msgstr "Ein kleines Dorf"
 
 #: ../base/ufos/maps.ufo:3752 ../base/ufos/maps.ufo:3798
 #: ../base/ufos/maps.ufo:3843 ../base/ufos/maps.ufo:3888
@@ -2942,9 +2934,8 @@ msgid "Suburban City"
 msgstr "Ein vorstädtischer Bezirk"
 
 #: ../base/ufos/maps.ufo:3934
-#, fuzzy
 msgid "Crash Site"
-msgstr "UFO Absturzstelle"
+msgstr "Absturzstelle"
 
 #: ../base/ufos/maps.ufo:3981
 msgid "Small Suburban Street"
@@ -2997,7 +2988,7 @@ msgstr "Militärbunker"
 
 #: ../base/ufos/maps.ufo:4661
 msgid "Rural Village"
-msgstr "Ein kleines ländliches Dorf."
+msgstr "Ein kleines ländliches Dorf"
 
 #: ../base/ufos/maps.ufo:4700
 msgid "Corrupter UFO Crash Site"
@@ -3029,7 +3020,7 @@ msgstr "Alte Mine"
 
 #: ../base/ufos/maps.ufo:5038
 msgid "Residential Neighbourhood"
-msgstr "Nachbarschaft."
+msgstr "Wohngegend"
 
 #: ../base/ufos/maps.ufo:5082
 msgid "Office Complex"
@@ -3163,7 +3154,7 @@ msgstr "Unteroffizier"
 
 #: ../base/ufos/medals.ufo:103
 msgid "Sgt"
-msgstr "Ufz."
+msgstr "Ufz"
 
 #: ../base/ufos/medals.ufo:115
 msgid "Warrant Officer"
@@ -3230,7 +3221,6 @@ msgid "Col"
 msgstr "O"
 
 #: ../base/ufos/msgid/aircraft.ufo:40
-#, fuzzy
 msgid ""
 "Aircraft Evaluation -- Firebird-class Dropship\n"
 "\n"
@@ -3318,7 +3308,7 @@ msgstr ""
 "\n"
 "Gespeichert: 17. März 2084\n"
 "\n"
-"Von: Cdr. Paul Navarre, F&E: Technische Abteilung, PHALANX, Atlantisches "
+"Von: Kdt. Paul Navarre, F&E: Technische Abteilung, PHALANX, Atlantisches "
 "Operationskommando\n"
 "\n"
 "\n"
@@ -3331,11 +3321,11 @@ msgstr ""
 "Entschuldigen Sie, wenn ich jetzt meine Befugnisse überschreite, aber die "
 "alten verfügbaren PHALANX-Landungsschiffe sind einfach nicht modern genug. "
 "Sogar als sie neu waren kam keines von ihnen über den Prototyp-Status "
-"hinaus. Es gibt nur zwei 'überlebende' Exemplare. Beide waren in den letzten "
-"60 Jahren in Regierungswarenhäusern eingemottet und waren es nicht wert "
-"herausgeholt zu werden. Wir haben ein großes Durcheinander an Equipment "
-"geerbt. Ich kann nicht mal die Hälfte von dem finden, was wir bekommen "
-"sollten. Ich tue mein Bestes, um überlegene Alternativen für unsere "
+"hinaus. Es gibt nur zwei 'überlebende' Exemplare und beide waren in den "
+"letzten 60 Jahren in Regierungswarenhäusern eingemottet und waren es nicht "
+"wert herausgeholt zu werden. Wir haben ein großes Durcheinander an "
+"Ausrüstung geerbt. Ich kann nicht mal die Hälfte von dem finden, was wir "
+"bekommen sollten. Ich tue mein Bestes, um überlegene Alternativen für unsere "
 "Ausrüstung zu finden.\n"
 "\n"
 "Das einzig Gute in diesem Landungsschiff-Durcheinander ist, dass ich es "
@@ -3346,19 +3336,19 @@ msgstr ""
 "Das Galeoth Firebird VTOL (Vertical Take-Off and Landing) ist das beste "
 "Luftfahrzeug, das wir als Landungsschiff einsetzen können. Es ist eigentlich "
 "als Frachtschlepper gedacht, aber es wurde schnell in einen "
-"Truppentransporter umgewandelt. Seitdem ist es im militärischen wie auch im "
-"zivilen Bereich eine beliebte Alternative zu Helikoptern geworden. Seine "
-"vier HM-5600 Sprengtriebwerke geben dem Firebird VTOL-Fähigkeiten und "
-"erreiche einen bessere Treibstoffeffizienz; und das bei viel weniger "
-"beweglichen Teilen als bei irgendeinem Helikoptermotor. Zudem wird dadurch "
-"die Zuverlässigkeit in allen Bereichen erhöht, und das Fehlen von "
-"Rotorblättern macht es deutlich schneller. Das HM-5600 ist dennoch ein sehr "
-"durstiges Triebwerk, und der Hochleistungstreibstoff ist zu teuer für eine "
-"zivile Nutzung.\n"
+"Truppentransporter von militärischen Vertragspartnern umgewandelt. Seitdem "
+"ist es im militärischen wie auch im zivilen Bereich eine beliebte "
+"Alternative zu Helikoptern geworden. Seine vier HM-5600 Sprengtriebwerke "
+"geben dem Firebird VTOL-Fähigkeiten und erreiche einen bessere "
+"Treibstoffeffizienz; und das bei viel weniger beweglichen Teilen als bei "
+"irgendeinem Helikoptermotor. Zudem wird dadurch die Zuverlässigkeit in allen "
+"Bereichen erhöht, und das Fehlen von Rotorblättern macht es deutlich "
+"schneller. Das HM-5600 ist dennoch ein sehr durstiges Triebwerk, und der "
+"Hochleistungstreibstoff ist zu teuer für eine zivile Nutzung.\n"
 "\n"
 "Die Reisegeschwindigkeit des Firebird ist Mach 0.74. Mit seiner "
 "Maximalgeschwindigkeit von Mach 1.03 kann es sich gerade mal so durch die "
-"Schallmauer drücken. Aber das verursacht einen großen Druck auf die Hülle "
+"Schallmauer brechen. Aber das verursacht einen großen Druck auf die Hülle "
 "und sollte, abgesehen von Notfällen, vermieden werden. Es hat nur einen "
 "Waffenschacht an der Nase, in den Luftabwehrwaffen wie Luftkanonen oder "
 "Raketenbatterien eingebaut werden können. Es kann auch Zusatzausrüstung "
@@ -3367,9 +3357,9 @@ msgstr ""
 "Laderaum, der kleine Kampffahrzeuge aufnehmen und absetzen kann.\n"
 "\n"
 "Es gibt nichts besser geeignetes im Himmel, das unseren Bedarf als "
-"Landungsschiff deckt, als den Firebird. Schneller als jeder Helikopter, "
-"manövrierfähiger als jeder Starrflügler und es kann schnell und effizient "
-"auf Bedrohungen auf der ganzen Welt reagieren.\n"
+"Landungsschiff deckt, als den Firebird. Es ist schneller als jeder "
+"Helikopter, manövrierfähiger als jeder Starrflügler und es kann schnell und "
+"effizient auf Bedrohungen auf der ganzen Welt reagieren.\n"
 "\n"
 "Der Firebird braucht einen großen Hangar für Lagerung, Wartung und Einsatz. "
 "Er hat einen mittleren Waffenschacht in der Nase.\n"
@@ -4773,7 +4763,6 @@ msgstr ""
 "Cdr. Navarre"
 
 #: ../base/ufos/msgid/aircraft.ufo:390
-#, fuzzy
 msgid ""
 "Commander, my team and I have just finished another UFO report for you. Here "
 "is my summary for your review.\n"
@@ -4825,7 +4814,7 @@ msgstr ""
 "Schiffstyp als schweres Kampfschiff und Abfangjäger entworfen, eine Rolle "
 "die es hervorragend ausfüllt.\n"
 "\n"
-"Das UFO ist sowohl mit zwei Partikelstrahlenwaffen als auch – höchst "
+"Das UFO ist sowohl mit drei Partikelstrahlenwaffen als auch – höchst "
 "interessant – mit zwei zusätzlichen Waffenmodulen, ähnlich denen unserer "
 "eigenen Schiffe, ausgestattet. Noch interessanter als seine Bewaffnung ist "
 "die Panzerung des Kanonenbootes. Es handelt sich um eine Verbesserung "
@@ -4866,7 +4855,7 @@ msgstr ""
 "wir können - Zeit und Geld darauf verwenden, unsere Luftflotte "
 "aufzubessern.\n"
 "\n"
-"Cdr. Navarre"
+"Kdt. Navarre"
 
 #: ../base/ufos/msgid/aircraft.ufo:400
 msgid ""
@@ -5767,7 +5756,6 @@ msgstr ""
 "Cdr. Navarre"
 
 #: ../base/ufos/msgid/aircraftitems.ufo:200
-#, fuzzy
 msgid ""
 "Commander, I'm happy to report the success of our alien propulsion program. "
 "We've cracked the mysteries of the alien engine set-up and we finally "
@@ -5854,8 +5842,7 @@ msgstr ""
 "Es könnte weitere Forschung zur Lagerung und Kontrolle von Antimaterie nötig "
 "sein. Die Triebwerksaufrüstungen sind jedoch abgeschlossene Bauteile -- "
 "eigentlich nur ein außerirdisches Triebwerk mit Adaptern für menschliche "
-"Technik. Wir sollten mit der Umrüstung beginnen können, sobald wir genügend "
-"Treibstoff haben, um unsere Luftflotte am Himmel zu halten.\n"
+"Technik.\n"
 "\n"
 "Wie ich zuvor erwähnt habe, ist der Leistungsunterschied zwischen unseren "
 "Flüssigkeitstriebwerken und diesen Materie-Antimaterie-Antrieben "
@@ -6008,7 +5995,6 @@ msgstr ""
 "Cdr. Navarre"
 
 #: ../base/ufos/msgid/aircraftitems.ufo:250
-#, fuzzy
 msgid ""
 "The project on alien detection is complete, Commander. We now have a full "
 "understanding of the machinery, its controls, and the modifications needed "
@@ -6080,19 +6066,19 @@ msgstr ""
 "Einfach ausgedrückt ist es ein Gravitationssensor, der ein Hintergrund-"
 "Gravitationsfeld nach winzigen Änderungen abtastest. Alles was ein "
 "Gravitationsfeld passiert stört das Feld zu einem gewissen Grad, je nach "
-"Größe, Masse und Zusammensetzung. Der Sensor kann durch den Kurs, die "
-"Geschwindigkeit und die Beschleunigung des Objekts mit 95% Genauigkeit "
-"herausfinden, ob es natürlich oder künstlich ist. Wenn ein Zweifel dabei "
-"besteht, wird das Objekt trotzdem gemeldet. Er scheint in stärkeren Feldern "
-"wie dem unserer Erde effektiver zu sein, aber wir vermuten, dass er in "
-"gewissem Umfang auch in der Gravitationsreichweite eines Sterns "
-"funktionieren wird.\n"
+"Größe, Masse und Zusammensetzung. Der Sensor kann diese Veränderungen als "
+"natürliche oder künstliche Objekte, die Geschwindigkeit und die "
+"Beschleunigung des Objekts mit 95% Genauigkeit identifizieren. Wenn ein "
+"Zweifel dabei besteht, wird das Objekt trotzdem gemeldet. Er scheint in "
+"stärkeren Feldern wie dem unserer Erde effektiver zu sein, aber wir "
+"vermuten, dass er in gewissem Umfang auch in der Gravitationsreichweite "
+"eines Sterns funktionieren wird.\n"
 "\n"
 "Diese Ortungsleistung ist mit einem automatischen Computersystem verbunden, "
 "welches diese ganzen Ergebnisse durch eine ganze Reihe von Filtern schickt, "
 "die jederzeit den Bedürfnissen von Piloten und Besatzung angepasst werden "
 "können. Dies hilft dabei, Ziele im Hintergrundrauschen zu finden oder die "
-"Sensitivität zu erhöhen um nach etwas Verstecktem zu suchen.\n"
+"Sensitivität zu erhöhen um nach etwas Getarntem zu suchen.\n"
 "\n"
 "Interessanterweise ist der Ortungscomputer direkt mit der Feuerkontrolle "
 "verbunden und hilft dabei, die Manöver des Ziels zu erahnen und die "
@@ -6105,11 +6091,6 @@ msgstr ""
 "praktische Nutzen wird aber in der Verwendung dieser Technologie für neue "
 "Flugzeuginstrumente liegen, um die Überlebenschance unserer Abfangjäger zu "
 "erhöhen.\n"
-"\n"
-"Natürlich sind nicht die kurzfristigen Anwendungen die wichtigsten. Diese "
-"Detektoren sind unverzichtbar in zukünftigen PHALANX-Raumschiffen. Im "
-"Weltraum, wo es keine Unterstützung durch Bodenradar gibt, werden wir die "
-"zusätzliche Leistung dringend brauchen.\n"
 "\n"
 "Cdr. Navarre"
 
@@ -6147,7 +6128,6 @@ msgstr ""
 "Cdr. Navarre"
 
 #: ../base/ufos/msgid/aircraftitems.ufo:274
-#, fuzzy
 msgid ""
 "Commander, I've just finished my report on our latest laser program. We've "
 "successfully prototyped the new Aerial Laser Cannon and are ready to put it "
@@ -6176,17 +6156,16 @@ msgid ""
 "Cdr. Navarre"
 msgstr ""
 "Kommandant, ich habe soeben meinen Bericht über unser neuestes Laser-"
-"Programm fertiggestellt. Wir konnten einen Prototypen des Flugzeug-Lasers "
+"Programm fertiggestellt. Wir konnten einen Prototypen der Luft-Lasers-Kanone "
 "bauen und sind nun bereit ihn in Serienproduktion zu geben.\n"
 "\n"
 "Wir haben unser Forschungsziel erreicht: Einen stabilen Dauerstrichlaser, "
 "betrieben mit Deuterium-Fluorid und im Megawatt Leistungsbereich zu "
-"entwickeln, welcher in der Lage ist, UFOs noch in 5 Kilometer Entfernung zu "
-"treffen. Die Genauigkeit ist unabhängig von der Zielentfernung "
+"entwickeln. Die Genauigkeit ist unabhängig von der Zielentfernung "
 "ausgezeichnet. Sie wird nur durch gegnerische EGM (elektronische "
-"Gegenmaßnahmen) beeinträchtigt. Der Laserstrahl breitet sich geradlinig und "
-"mit Lichtgeschwindigkeit aus, so dass es tatsächlich schwer fallen dürfte, "
-"damit das Ziel zu verfehlen.\n"
+"Gegenmaßnahmen) beeinträchtigt. Der Laserstrahl breitet sich geradlinig aus "
+"und überquert die Entfernung zwischen Kanone und Ziel fast augenblicklich. "
+"So dass es tatsächlich schwer fallen dürfte, damit das Ziel zu verfehlen.\n"
 "\n"
 "Leider bereitet uns die atmosphärisch bedingte Streuung des Laserstrahles "
 "noch Probleme, d.h. die Intensität des Lasers fällt noch merklich mit der "
@@ -12041,7 +12020,7 @@ msgstr ""
 "\n"
 "Zusatz\n"
 "\n"
-"Keiner"
+"Keiner."
 
 #: ../base/ufos/msgid/campaigns.ufo:4
 msgid ""
@@ -12142,7 +12121,7 @@ msgid ""
 "and invade the earth. "
 msgstr ""
 "Diese Kampagne macht es möglich, das Spiel von der anderen Seite "
-"kennenzulernen - spiele die Außerirdischen bei der Invasion der Erde."
+"kennenzulernen - spiele die Außerirdischen bei der Invasion der Erde. "
 
 #: ../base/ufos/msgid/campaigntexts.ufo:2
 msgid ""
@@ -12692,7 +12671,7 @@ msgstr ""
 "Blickfeld explodieren.\n"
 "\n"
 "Feuerfelder verursachen einen kleinen Schadenswert an den Einheiten, die sie "
-"durchqueren. "
+"durchqueren."
 
 #: ../base/ufos/msgid/installations.ufo:34
 msgid ""
@@ -14468,7 +14447,7 @@ msgid ""
 msgstr ""
 "Bestimmt wie viel Gewicht ein Soldat auf dem Schlachtfeld tragen kann bevor "
 "er Überladen ist. Soldaten werden stärker während des Kampfes und je mehr "
-"Gewicht sie bei sich tragen desto schneller werden Sie stärker. "
+"Gewicht sie bei sich tragen desto schneller werden Sie stärker."
 
 #: ../base/ufos/msgid/skills.ufo:20
 msgid ""
@@ -25648,7 +25627,7 @@ msgstr ""
 
 #: ../base/ufos/seq_credits.ufo:202
 msgid "Other contributors"
-msgstr "Weitere Mitarbeiter:"
+msgstr "Andere Mitwirkende"
 
 #: ../base/ufos/seq_credits.ufo:212
 msgid "Bas Fournier (BTAxis)"
@@ -26329,7 +26308,7 @@ msgstr "Kopf"
 msgid "Use the [Shift] key to aim higher or lower at your target."
 msgstr ""
 "Benutzen Sie die [Schift] Taste um höher oder tiefer auf ihr Ziel an zu "
-"legen. "
+"legen."
 
 #: ../base/ufos/tips.ufo:5
 msgid ""
@@ -26451,7 +26430,7 @@ msgid ""
 "lines, the sooner you can access better equipment and resupplies."
 msgstr ""
 "Stellen Sie so viele Arbeiter wie möglich ein. Je schneller Ihre Produktion "
-"arbeitet, um so schneller haben Sie bessere Ausrüstung und Nachschub. "
+"arbeitet, um so schneller haben Sie bessere Ausrüstung und Nachschub."
 
 #: ../base/ufos/tips.ufo:20
 msgid ""
@@ -26502,7 +26481,7 @@ msgstr ""
 "Man kann Soldaten kriechen lassen, um sie besser vor feindlichem Feuer zu "
 "schützen. Aber denken Sie daran, dass der Wechsel zwischen Kriechen und "
 "Laufen Zeiteinheiten kostet und dass das Kriechen mehr Zeiteinheiten "
-"benötigt als das normale Laufen. "
+"benötigt als das normale Laufen."
 
 #: ../base/ufos/tips.ufo:26
 msgid ""
@@ -26573,7 +26552,7 @@ msgid ""
 msgstr ""
 "Bevor man eine Granate wirft sollte man sich genau die Form der Landschaft "
 "anschauen. Eine leichte Neigung beeinflusst die Richtung in der die Granate "
-"abprallt. "
+"abprallt."
 
 #: ../base/ufos/tips.ufo:34
 msgid "Grenades don't bounce well on sand or dirt."
@@ -26604,7 +26583,7 @@ msgid ""
 "equipping your interceptors."
 msgstr ""
 "Einige Gegenstände verlangsamen ein Flugzeug. Beachte die Ausrüstungs-"
-"Spezifikationen genau beim Ausrüsten Ihres Flugzeugs"
+"Spezifikationen genau beim Ausrüsten Ihres Flugzeugs."
 
 #: ../base/ufos/tips.ufo:39
 msgid "Build an alien containment to be able to imprison live aliens."
@@ -26733,7 +26712,7 @@ msgstr ""
 "Eine Waffe zu erforschen ist nur die halbe Miete. Danach müssen Sie sie "
 "immer noch bauen. Wenn sie Feldausrüstung immer weiter erforschen, kommt "
 "Ihre Werkstatt eventuell nicht mehr hinterher. Geben Sie Dr. Connor auch "
-"etwas Laborzeit."
+"etwas Laborzeit"
 
 #: ../base/ufos/tips.ufo:54
 msgid ""
@@ -26877,7 +26856,7 @@ msgstr "Dies wird bereits in einer anderen Basis erforscht."
 
 #: ../base/ufos/ui/_assets_base.ufo:629
 msgid "N/A"
-msgstr "nicht verfügbar"
+msgstr "N/V"
 
 #: ../base/ufos/ui/_assets_base.ufo:630
 msgid "An artifact or prerequisite is missing for this topic"
@@ -27334,7 +27313,7 @@ msgstr ""
 
 #: ../base/ufos/ui/campaign_main.ufo:26 ../base/ufos/ui/missionmenu.ufo:122
 msgid "Leave this menu and continue playing."
-msgstr "Dieses Menü verlassen und weiterspielen"
+msgstr "Dieses Menü verlassen und weiterspielen."
 
 #: ../base/ufos/ui/campaign_main.ufo:58 ../base/ufos/ui/main.ufo:95
 #: ../base/ufos/ui/missionmenu.ufo:137
@@ -27414,7 +27393,7 @@ msgstr "Weitere Nachrichten anzeigen"
 
 #: ../base/ufos/ui/geoscape.ufo:208
 msgid "Pause"
-msgstr " [angehalten]"
+msgstr "[angehalten]"
 
 #: ../base/ufos/ui/geoscape.ufo:220
 msgid "Time lapse: 5 seconds"
@@ -27533,7 +27512,7 @@ msgstr "Mission automatisch abwickeln"
 
 #: ../base/ufos/ui/geoscape.ufo:850
 msgid "This kind of mission cannot be done automatically"
-msgstr "Diese Mission kann nicht automatisch durchgeführt werden."
+msgstr "Diese Mission kann nicht automatisch durchgeführt werden"
 
 #: ../base/ufos/ui/geoscape.ufo:897 ../base/ufos/ui/popup_installations.ufo:264
 msgid "Cost:"
@@ -28156,7 +28135,7 @@ msgstr "Skalieren"
 
 #: ../base/ufos/ui/messageoptions.ufo:12
 msgid "enable or disable displaying a notification message"
-msgstr "Anzeigen einer Nachricht im Nachrichtenfenster (An/Aus)."
+msgstr "Anzeigen einer Nachricht im Nachrichtenfenster (An/Aus)"
 
 #: ../base/ufos/ui/messageoptions.ufo:20
 msgid "enable or disable game stopping"
@@ -28350,7 +28329,7 @@ msgstr "Aktiviere Moralschwankungen:"
 
 #: ../base/ufos/ui/multiplayer.ufo:528
 msgid "Alien rush:"
-msgstr "Ansturm"
+msgstr "Alien Ansturm:"
 
 #: ../base/ufos/ui/multiplayer.ufo:531
 msgid "Enemies respawn when killed."
@@ -28366,7 +28345,7 @@ msgstr "Setzt die maximal erlaubte Anzahl der Spieler"
 
 #: ../base/ufos/ui/multiplayer.ufo:573 ../base/ufos/ui/multiplayer.ufo:1351
 msgid "Max. soldiers per team:"
-msgstr "Max. Soldaten pro Team"
+msgstr "Max. Soldaten pro Team:"
 
 #: ../base/ufos/ui/multiplayer.ufo:574 ../base/ufos/ui/multiplayer.ufo:1352
 #: ../base/ufos/ui/multiplayer.ufo:1402
@@ -28590,8 +28569,7 @@ msgid ""
 "connect button to connect to the server"
 msgstr ""
 "Du hast eine Einladung zu einem Spiel im Mehrspielermodus erhalten. Klick "
-"auf den Verbindungsknopf um der Einladung zu folgen und am Spiel "
-"teilzunehmen."
+"auf den Verbindungsknopf um der Einladung zu folgen und am Spiel teilzunehmen"
 
 #: ../base/ufos/ui/options.ufo:112 ../base/ufos/ui/options.ufo:113
 msgid "GENERAL"
@@ -29243,7 +29221,7 @@ msgstr "Töte alle Außerirdischen in Isolationskammer"
 #: ../base/ufos/ui/popup_baseattack.ufo:261
 #: ../base/ufos/ui/popup_baseattack.ufo:268
 msgid "Not implemented"
-msgstr "nicht implementiert"
+msgstr "Nicht implementiert"
 
 #: ../base/ufos/ui/popup_baseattack.ufo:252
 msgid "Lift aircraft"
@@ -29354,7 +29332,7 @@ msgstr "Transfers"
 
 #: ../base/ufos/ui/production.ufo:72
 msgid "Craft items"
-msgstr "Flugz. Geg."
+msgstr "Flugz. Gegenstände"
 
 #: ../base/ufos/ui/production.ufo:80
 msgid "UGV items"
@@ -29526,7 +29504,7 @@ msgstr "Fenster extrahieren"
 
 #: ../base/ufos/ui/sys_editor.ufo:80
 msgid "Extract the window of the last/current selected node"
-msgstr "Extrahiere das Fenster das letzten/jetzt gewählten Knotens."
+msgstr "Extrahiere das Fenster das letzten/jetzt gewählten Knotens"
 
 #: ../base/ufos/ui/sys_editor.ufo:93
 msgid "Current window:"
@@ -29562,7 +29540,9 @@ msgstr "Generiere ein neues Team mit der ausgewählten Rasse"
 
 #: ../base/ufos/ui/transfer.ufo:49
 msgid "Add/Remove item to transfer cargo, hold SHIFT for speed increase."
-msgstr "Gegenstand zur Transfer-Fracht zufügen/entfernen"
+msgstr ""
+"Gegenstand zur Transfer-Fracht zufügen/entfernen, shift gedrückt halten für "
+"schnelles Erhöhen."
 
 #: ../base/ufos/ui/transfer.ufo:208 ../base/ufos/ui/transfer.ufo:361
 #: client/cgame/campaign/cp_cgame_callbacks.cpp:143
@@ -29777,7 +29757,7 @@ msgstr "Gasgranate"
 
 #: ../base/ufos/weapons.ufo:465
 msgid "Alien Gas Grenade"
-msgstr "außerirdische Gasgranate"
+msgstr "Außerirdische Gasgranate"
 
 #: ../base/ufos/weapons.ufo:550
 msgid "Incendiary grenade"
@@ -30199,7 +30179,7 @@ msgstr "Wuchtgeschosse"
 
 #: ../base/ufos/weapons_ugv.ufo:22
 msgid "ugv_ares_w"
-msgstr "Noch keine Informationen verfügbar. Bitte erst erforschen."
+msgstr "Noch keine Informationen verfügbar. Bitte erst erforschen"
 
 #: ../base/ufos/weapons_ugv.ufo:31
 #, fuzzy
@@ -30759,7 +30739,7 @@ msgstr "%s dreht durch!"
 #: client/battlescape/events/event/actor/e_event_actorstatechange.cpp:83
 #, c-format
 msgid "%s is on a rampage!"
-msgstr "%s randaliert."
+msgstr "%s randaliert!"
 
 #: client/battlescape/events/event/actor/e_event_actorstatechange.cpp:88
 #, c-format
@@ -30769,7 +30749,7 @@ msgstr "%s ist geschockt."
 #: client/battlescape/events/event/actor/e_event_actorwound.cpp:60
 #, c-format
 msgid "%s has been wounded"
-msgstr "%s wurde verletzt!"
+msgstr "%s wurden verletzt"
 
 #: client/battlescape/events/event/player/e_event_doendround.cpp:57
 msgid "Your round started!"
@@ -31081,7 +31061,7 @@ msgid ""
 "You've defeated the enemy, but did poorly, and many civilians were killed"
 msgstr ""
 "Sie haben den Gegner besiegt, aber nur knapp und viele Zivilisten wurden "
-"getötet."
+"getötet"
 
 #: client/cgame/campaign/cp_auto_mission.cpp:747
 msgid "You've lost the battle"
@@ -32053,7 +32033,7 @@ msgid ""
 "%s"
 msgstr ""
 "%s wurde erfolgreich entfernt. Einbau von %s in Flugzeug %s in %s wird "
-"begonnen."
+"begonnen"
 
 #: client/cgame/campaign/cp_mapfightequip.cpp:373
 #, c-format
@@ -32283,7 +32263,7 @@ msgstr "Außerirdische gefangen"
 
 #: client/cgame/campaign/cp_mission_callbacks.cpp:120
 msgid "Alien survivors"
-msgstr "überlebende Aliens"
+msgstr "Überlebende Aliens"
 
 #: client/cgame/campaign/cp_mission_callbacks.cpp:123
 msgid "PHALANX soldiers killed in action"
@@ -32303,7 +32283,7 @@ msgstr "PHALANX Überlebende"
 
 #: client/cgame/campaign/cp_mission_callbacks.cpp:133
 msgid "Civilians killed"
-msgstr "Zivilisten getötet:"
+msgstr "Zivilisten getötet"
 
 #: client/cgame/campaign/cp_mission_callbacks.cpp:134
 msgid "Civilians killed by friendly fire"
@@ -32654,7 +32634,7 @@ msgstr ""
 #: client/cgame/campaign/cp_produce_callbacks.cpp:653
 #: client/cgame/campaign/cp_produce_callbacks.cpp:670
 msgid "Not enough materials"
-msgstr "Nicht ausreichend Material!"
+msgstr "Nicht ausreichend Material"
 
 #: client/cgame/campaign/cp_produce_callbacks.cpp:653
 msgid "You don't have the materials needed for producing more of this item.\n"
@@ -32774,7 +32754,7 @@ msgstr ""
 
 #: client/cgame/campaign/cp_save.cpp:350
 msgid "Could not allocate enough memory to save this game"
-msgstr "Konnte nicht ausreichend Speicher anfordern um das Spiel zu speichern."
+msgstr "Konnte nicht ausreichend Speicher anfordern um das Spiel zu speichern"
 
 #: client/cgame/campaign/cp_save.cpp:373
 msgid "Memory error compressing save-game data - set save_compressed cvar to 0"
@@ -33019,7 +32999,7 @@ msgstr "Dez"
 #: client/cgame/campaign/cp_transfer.cpp:57
 #, c-format
 msgid "%s does not have Antimatter Storage, antimatter are removed!"
-msgstr "%s hat keinen Anti-Materie-Speicher, Anti-Materie wurde enfernt."
+msgstr "%s hat keinen Anti-Materie-Speicher, Anti-Materie wurde enfernt!"
 
 #: client/cgame/campaign/cp_transfer.cpp:58
 #: client/cgame/campaign/cp_transfer.cpp:102
@@ -33050,7 +33030,7 @@ msgstr "Transportmission beendet - entlade Fracht in %s"
 #: client/cgame/campaign/cp_transfer_callbacks.cpp:96
 #, c-format
 msgid "Transport mission started, cargo is being transported to %s"
-msgstr "Transportmission gestartet, Ladungsziel: %s."
+msgstr "Transportmission gestartet, Ladungsziel: %s"
 
 #: client/cgame/campaign/cp_transfer_callbacks.cpp:170
 #: client/cgame/campaign/cp_transfer_callbacks.cpp:311
@@ -33089,7 +33069,7 @@ msgstr "Ein UFO fliegt auf %s zu"
 #: client/cgame/campaign/cp_ufo.cpp:943
 #, c-format
 msgid "%s is flying toward %s"
-msgstr "Ein %s fliegt auf %s zu."
+msgstr "Ein %s fliegt auf %s zu"
 
 #: client/cgame/campaign/cp_ufo.cpp:947
 #, c-format
@@ -33245,7 +33225,7 @@ msgstr ""
 
 #: client/cgame/campaign/cp_ufopedia.cpp:544
 msgid "Proposal: "
-msgstr "Antrag:"
+msgstr "Antrag: "
 
 #: client/cgame/campaign/cp_ufopedia.cpp:547
 msgid "Re: "
@@ -33303,7 +33283,7 @@ msgstr "UFO wurde transferiert"
 #: client/cgame/campaign/cp_uforecovery.cpp:252
 #, c-format
 msgid "UFO transport started, cargo is being transported to %s"
-msgstr "UFO-Transportmission gestartet, Ladungsziel: %s."
+msgstr "UFO-Transportmission gestartet, Ladungsziel: %s"
 
 #: client/cgame/campaign/cp_uforecovery.cpp:253
 msgid "UFO transport"
@@ -33420,7 +33400,7 @@ msgstr "Fehler beim Speichern des Teams. Zu viele Teams!"
 msgid "Error saving team. Check free disk space!"
 msgstr ""
 "Fehler beim Speichern des Teams. Überprüfen Sie, ob Sie genügend "
-"Speicherplatz haben."
+"Speicherplatz haben!"
 
 #: client/cgame/multiplayer/cl_game_multiplayer.cpp:58
 msgid "You've ended your turn.\n"
@@ -33448,7 +33428,7 @@ msgstr "Gegner getötet:\t%i"
 #: client/cgame/multiplayer/cl_game_multiplayer.cpp:139
 #, c-format
 msgid "Team survivors:\t%i"
-msgstr "überlebende Teammitglieder\t%i"
+msgstr "Überlebende Teammitglieder\t%i"
 
 #: client/cgame/multiplayer/mp_callbacks.cpp:212
 msgid "Select a free team or your coop team"
@@ -33572,7 +33552,7 @@ msgstr ""
 #: client/cgame/skirmish/cl_game_skirmish.cpp:182
 #: client/cgame/skirmish/cl_game_skirmish.cpp:187
 msgid "Game Drawn!"
-msgstr "Unentschieden"
+msgstr "Unentschieden!"
 
 #: client/cgame/skirmish/cl_game_skirmish.cpp:182
 msgid ""
@@ -33627,7 +33607,7 @@ msgstr "Sie haben das Spiel verloren!"
 
 #: client/cl_console.cpp:285
 msgid "Show/hide ufoconsole."
-msgstr "Konsole zeigen/verbergen"
+msgstr "Konsole zeigen/verbergen."
 
 #: client/cl_inventory_callbacks.cpp:44
 msgid "Close quarters"
@@ -33782,11 +33762,11 @@ msgstr "Das eingegebene Passwart war falsch."
 
 #: client/cl_main.cpp:412
 msgid "This server requires a password."
-msgstr "Dieser Server benötigt ein Passwort"
+msgstr "Dieser Server benötigt ein Passwort."
 
 #: client/cl_main.cpp:416
 msgid "This server is full."
-msgstr "Dieser Server ist "
+msgstr "Dieser Server voll."
 
 #: client/cl_main.cpp:419
 msgid "You are banned on this server."
@@ -33841,7 +33821,7 @@ msgstr "Diese Änderung benötigt möglicherweise einen Neustart des Spiels."
 #: client/cl_screen.cpp:126
 #, c-format
 msgid "Downloading [%s]"
-msgstr "lade herunter [%s]"
+msgstr "Herunterladen [%s]"
 
 #: client/cl_team.cpp:175
 msgid "Poor"
