@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: UFO Alien Invasion\n"
 "Report-Msgid-Bugs-To: tlh2000@users.sourceforge.net\n"
 "POT-Creation-Date: 2017-10-12 13:21-0500\n"
-"PO-Revision-Date: 2021-03-06 18:08+0100\n"
+"PO-Revision-Date: 2021-03-06 22:40+0100\n"
 "Last-Translator: Martin Gerhardy <tlh2000@users.sourceforge.net>\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -4548,7 +4548,7 @@ msgstr ""
 #: ../base/ufos/msgid/weapons.ufo:487 ../base/ufos/msgid/weapons.ufo:495
 #: ../base/ufos/msgid/weapons.ufo:503 ../base/ufos/msgid/weapons.ufo:1887
 msgid "No pre research info available"
-msgstr "Noch keine Informationen verfügbar. Bitte erst erforschen."
+msgstr "Noch keine Informationen verfügbar. Bitte erst erforschen"
 
 #: ../base/ufos/msgid/aircraft.ufo:340
 msgid ""
@@ -12720,6 +12720,55 @@ msgid ""
 "\n"
 "None."
 msgstr ""
+"Blaupausen - Radarturm\n"
+"\n"
+"KLASSIFIZIERTER STUFE SCHWARZ\n"
+"\n"
+"PHALANX Extraterrestrial Response Unit\n"
+"\n"
+"Construction Precis, Sigma Clearance - Nur für Commander's Eyes\n"
+"\n"
+"Gespeichert: 18. März 2084\n"
+"\n"
+"Von: Kdt. Paul Navarre, F & E: Engineering Division, PHALANX, Atlantic "
+"Operations Command\n"
+"\n"
+"\n"
+"\n"
+"Überblick\n"
+"\n"
+"Zusätzlich zu den Blaupausen der Basisradaranlage, die ich heute eingereicht "
+"habe, möchte ich diese Blaupausen für eine kleinere Installation außerhalb "
+"der Basis einreichen. Unsere Basisanlagen werden niemals den gesamten Globus "
+"abdecken können, daher müssen wir einige dieser Radartürme bauen, um Lücken "
+"in unserer Abdeckung zu schließen.\n"
+"\n"
+"Die Blaupausen enthalten Details zum Bau einer kleinen Anlage. Dies "
+"bedeutet, dass jeder Turm nur einen kleinen Bereich abdeckt, aber sie können "
+"schnell und kostengünstig errichtet werden, um unsere Betriebsfähigkeiten "
+"schnell zu verbessern.\n"
+"\n"
+"\n"
+"Empfohlene Lehre\n"
+"\n"
+"Der Radarturm hat eine begrenzte Reichweite im Vergleich zu den "
+"Einrichtungen, die wir in den PHALANX-Basen entworfen haben. Daher müssen "
+"sie schnell und in großer Anzahl hergestellt werden, um unsere "
+"Radarabdeckung auf der ganzen Welt zu erweitern.\n"
+"\n"
+"Wir sollten uns bemühen, so viel wie möglich von der Erde zu bedecken, aber "
+"ein UFO zu entdecken ist bedeutungslos, wenn wir es nicht abschießen können. "
+"Wir sollten unsere Konstruktion zunächst auf Bereiche konzentrieren, die "
+"sich in Reichweite unserer Abfangjäger befinden.\n"
+"\n"
+"Die Tarnung des Turms ist nicht sehr effektiv. Außerirdische Fahrzeuge "
+"können das aktive Scannen erkennen und versuchen, den Turm zu zerstören, "
+"sobald sie ihn gefunden haben.\n"
+"\n"
+"\n"
+"Nachträge\n"
+"\n"
+"Keiner."
 
 #: ../base/ufos/msgid/installations.ufo:68
 msgid ""
@@ -12766,6 +12815,45 @@ msgid ""
 "\n"
 "None."
 msgstr ""
+"Construction Precis, Sigma Clearance - Nur für Commander's Eyes\n"
+"\n"
+"Gespeichert: 17. März 2084\n"
+"\n"
+"Von: Kdt. Paul Navarre, F & E: Engineering Division, PHALANX, Atlantic "
+"Operations Command\n"
+"\n"
+"\n"
+"\n"
+"Überblick\n"
+"\n"
+"Um diesen Krieg zu überleben, müssen wir mehr tun, als nur UFOs zu entdecken "
+"und niederzuschlagen. Wir müssen diese Fahrzeuge wiederherstellen und ein "
+"aktives Forschungsprogramm initiieren, das die außerirdische Technologie "
+"untersucht, die auf unsere eigenen Flugzeuge angewendet werden kann.\n"
+"\n"
+"Dazu benötigen wir ein spezielles Lager, das viel zu groß ist, um auf "
+"unseren Basen untergebracht zu werden. Bitte beachten Sie die beigefügten "
+"Blaupausen, in denen Pläne für die sichere Aufbewahrung und Tarnung von "
+"außerirdischen Fahrzeugen aufgeführt sind, die wir möglicherweise "
+"wiederherstellen. Wir werden in der Lage sein, geborgene Fahrzeuge zu diesen "
+"Einrichtungen zu transportieren und die erforderlichen Untersuchungen "
+"durchzuführen.\n"
+"\n"
+"\n"
+"Empfohlene Lehre\n"
+"\n"
+"In einem UFO-Yard gespeicherte UFOs können von jeder PHALANX-Basis mit "
+"geeigneten Einrichtungen aus untersucht und abgebaut werden. Diese "
+"Aktivitäten laufen jedoch langsamer ab, je weiter der UFO-Yard von der Basis "
+"entfernt ist. UFO Yards sollten in der Nähe von Stützpunkten gebaut werden, "
+"die Zugang benötigen.\n"
+"\n"
+"UFOs können zwischen verschiedenen Werften übertragen werden.\n"
+"\n"
+"\n"
+"Nachträge\n"
+"\n"
+"Keiner."
 
 #: ../base/ufos/msgid/installations.ufo:100
 msgid ""
@@ -12847,7 +12935,6 @@ msgstr ""
 "Keiner."
 
 #: ../base/ufos/msgid/irc.ufo:20
-#, fuzzy
 msgid ""
 "Welcome to the UFO: Alien Invasion multiplayer lobby.\n"
 "If you are searching for players, make sure to stay connected.\n"
@@ -12894,7 +12981,7 @@ msgstr ""
 "Wenn Du ein Spiel hosten willst, stelle sicher, daß der TCP port 27910 in "
 "Deiner Firewall geöffnet ist.\n"
 "Wenn Du den Channel mit einem normal IRC-Client benutzen möchtest, verbinde "
-"Dich mit irc.freenode.net und trete #ufoai bei\n"
+"Dich mit irc.freenode.net und trete #ufoai-gamer bei\n"
 "\n"
 "Für Unterstüzung beim Aufbau von Multiplayer Spielen, siehe http://ufoai.org/"
 "wiki/index.php/Multiplayer"
@@ -13064,9 +13151,8 @@ msgstr ""
 "in der Nähe und zerstöre das Tor um hinein zu kommen."
 
 #: ../base/ufos/msgid/missionbriefing.ufo:11
-#, fuzzy
 msgid "Kill all the aliens before they are able to blow up the depot."
-msgstr "Töte alle Außerirdischen um die Basis zu sichern."
+msgstr "Töte alle Außerirdischen bevor sie das Depot in die Luft jagen können."
 
 #: ../base/ufos/msgid/missionbriefing.ufo:14
 msgid ""
@@ -13109,12 +13195,19 @@ msgid ""
 "the main building. There is a shelter hidden within, our hope is people "
 "managed to get there."
 msgstr ""
+"Es gibt ein großes Gebiet, das abgedeckt werden muss, sodass sich die "
+"örtlichen Streitkräfte unserem Gegenangriff anschließen werden. Ihr "
+"Hauptziel bei dieser Mission ist es, die im Hauptgebäude gefangenen "
+"Zivilisten zu schützen. Es gibt einen Unterschlupf, in dem wir hoffen, dass "
+"die Menschen es geschafft haben, dorthin zu gelangen."
 
 #: ../base/ufos/msgid/missionbriefing.ufo:29
 msgid ""
 "Secure the area in front of the panic room entrance until reinforcements "
 "arrive."
 msgstr ""
+"Sichern Sie den Bereich vor dem Eingang des Panikraums, bis Verstärkung "
+"eintrifft."
 
 #: ../base/ufos/msgid/news.ufo:16
 msgid ""
@@ -14248,7 +14341,6 @@ msgstr ""
 "Alles, was noch fehlte, war ein Anführer."
 
 #: ../base/ufos/msgid/news.ufo:182
-#, fuzzy
 msgid ""
 "Commander,\n"
 "\n"
@@ -14333,7 +14425,7 @@ msgstr ""
 "wieder; jedes mal, wenn wir eine Probe untersuchten, die nicht kühl gelagert "
 "war, hatten wir Schwierigkeiten, auch nur eine unkontaminierte Sequenz zu "
 "extrahieren. Ich habe einige Stunden damit zugebracht, dieses Problem zu "
-"studieren und ich glaube, ich habe die Lösung für dieses Problem gefunden.\n"
+"studieren und ich glaube, ich habe die Ursache für dieses Problem gefunden.\n"
 "\n"
 "Die einfachste Erklärung ist: es gibt zwei Arten DNA in einer Blutprobe. Das "
 "Übergewicht der fremden DNA ist total; diese Sequenzen lassen sich in jedem "
@@ -14469,7 +14561,6 @@ msgstr ""
 "Bewegungsfähigkeit auf dem Schlachtfeld verbessern."
 
 #: ../base/ufos/msgid/story.ufo:16
-#, fuzzy
 msgid ""
 "Our study on antimatter is complete, Commander, and we're ready to present "
 "our results. I'm afraid the news is mostly bad.\n"
@@ -16177,7 +16268,6 @@ msgstr ""
 "Cdr. Navarre"
 
 #: ../base/ufos/msgid/story.ufo:374
-#, fuzzy
 msgid ""
 "Commander,\n"
 "\n"
@@ -16309,31 +16399,18 @@ msgstr ""
 "speziell dafür geschaffen, die menschliche Rasse zu infizieren.\n"
 "\n"
 "Wir haben den Organismus 'EXtraterrestrische Virus Infektion', kurz XVI, "
-"getauft. Aus mikrobiologischer Sicht ist dieser Begriff nicht ganz richtig, "
-"da es sich hier um einen komplexen, mehrzelligen Organismus handelt, aber er "
-"verhält sich wie ein Virus.\n"
+"getauft. Wir haben es hier mit einer Biowaffe unbekannten Ausmaßes zu tun. "
+"Anstatt seine Opfer zu töten, übernimmt der Organismus die Kontrolle über "
+"sie ohne auf Widerstand zu stoßen und -- im Moment-- geheilt werden zu "
+"können. Der bescheidenste und harmloseste Bürger kann infiziert werden und, "
+"mit dem Wirken des zentralen Hirns, ein effektiver Krieger für die "
+"Außerirdischen werden. Wenn die Außerirdischen ihn dann noch mit Waffen "
+"ausrüsten, wird er sogar für unsere Soldaten gefährlich. Was dann ist, will "
+"ich mir gar nicht ausmalen.\n"
 "\n"
-"Wir haben es hier mit einer Biowaffe unbekannten Ausmaßes zu tun. Anstatt "
-"seine Opfer zu töten, übernimmt der Organismus die Kontrolle über sie -- "
-"ohne auf Widerstand zu stoßen oder geheilt werden zu können. Der "
-"bescheidenste und harmloseste Bürger kann infiziert werden und, mit dem "
-"Wirken des zentralen Hirns, ein effektiver Krieger für die Außerirdischen "
-"werden. Wenn die Außerirdischen ihn dann noch mit Waffen ausrüsten, wird er "
-"sogar für unsere Soldaten gefährlich. Was dann ist, will ich mir gar nicht "
-"ausmalen.\n"
-"\n"
-"Ich könnte mir kein alptraumhafteres Szenario für uns vorstellen. Im Laufe "
-"des Krieges werden unsere Truppen immer häufiger gegen 'menschliche' Gegner "
-"kämpfen müssen. Vielleicht werden die Infizierten auch irgendwann "
-"außerirdische UFOs steuern. Das ist total verrückt.\n"
-"\n"
-"Kommandant, wir müssen so früh wie möglich einen Impfstoff gegen XVI "
-"entwickeln. Die Gefahr, dass unsere Soldaten und Mitarbeiter dieser "
-"Infektion zum Opfer fallen, ist einfach zu groß, als dass wir sie auch nur "
-"für einen Augenblick aus den Augen lassen. Wir dürfen nicht zulassen, dass "
-"ein Großteil der Bevölkerung diese Abscheulichkeit anbetet. Hiermit bitte "
-"ich um Ihre Erlaubnis, sofort mit den Arbeiten beginnen zu können. Bitte, "
-"bitte antworten Sie mir sobald wie möglich.\n"
+"Ich könnte mir kein alptraumhafteres Szenario für uns vorstellen. Vielleicht "
+"werden die Infizierten auch irgendwann außerirdische UFOs steuern. Das ist "
+"total verrückt.\n"
 "\n"
 "Mit freundlichen Grüßen\n"
 "\n"
@@ -17494,7 +17571,6 @@ msgstr ""
 "Cdr. Navarre"
 
 #: ../base/ufos/msgid/weapons.ufo:28
-#, fuzzy
 msgid ""
 "Our collected UN research files have yielded a lot of valuable information "
 "about weapon development done on Earth since the beginning of this century. "
@@ -17535,16 +17611,19 @@ msgstr ""
 "herzustellen, aber niemand vermochte es, einen tragbaren Laser zu fertigen, "
 "der einen ausreichenden Energieausstoß hat, um mit herkömmlichen Feuerwaffen "
 "zu konkurrieren. Nun aber haben wir Zugang zu all dieser kombinierten "
-"Forschung erhalten, ebenso Zugang zu ganzen Bibliotheken über die am "
-"weitesten entwickelten Technologien der Erde. Ich glaube, wir können nicht "
-"nur eine tragbare Laserwaffe herstellen, sondern sie auch in einer Größe "
-"bauen, die noch nie für eine GEW in Betracht gezogen wurde.\n"
+"Forschung erhalten. Ich glaube, wir können nicht nur eine tragbare "
+"Laserwaffe herstellen, sondern sie auch in einer Größe bauen, die noch nie "
+"für eine GEW in Betracht gezogen wurde.\n"
 "\n"
-"Herr Kommandant, wir sollten diese Forschung so schnell wie möglich "
-"beginnen. Ein vielseitigeres Waffenarsenal erschwert den Außerirdischen die "
-"Verteidigung. Darüber hinaus könnten uns unsere Erfahrungen zu der "
-"Entwicklung von brauchbaren Flugzeuglasern führen, die gegen sehr schnelle "
-"UFOs weit effektiver sein sollten als konventionelle Feuerwaffen.\n"
+"Dies wird ein vorläufiger Forschungsbericht sein. Ich kann nicht "
+"versprechen, dass wir sofort mit einer leistungsstarken tragbaren Laserwaffe "
+"zurückkehren.Die einzige mobile Laserwaffe, der wir uns in der Vergangenheit "
+"nähern konnten, wurde auf schweren Fahrzeugen montiert. Aber ich bin "
+"optimistisch, dass wir es so miniaturisieren können, dass es auf leichten "
+"Abfangjägern montiert werden kann, und möglicherweise sogar die ererbte "
+"Genauigkeit und Geschwindigkeit von Laserwaffen nutzen können, um eine "
+"mächtige Boden-Luft-Bedrohung zu liefern, die uns helfen könnte, diese Dinge "
+"aus dem Weg zu räumen Himmel. \n"
 "\n"
 "Soweit es mich betrifft, können wir bei PHALANX das Unmögliche vollbringen "
 "und wir werden damit anfangen, sobald Sie diesen Antrag befürworten.\n"
@@ -18351,7 +18430,6 @@ msgstr ""
 "Keiner."
 
 #: ../base/ufos/msgid/weapons.ufo:308
-#, fuzzy
 msgid ""
 "Technical Specifications: MG12 Machine Gun\n"
 "\n"
@@ -18507,14 +18585,9 @@ msgstr ""
 "Empfohlener Einsatz\n"
 "\n"
 "Das MG12 wird ein extrem nützliches Werkzeug zur Kontrolle des Schlachtfelds "
-"sein. Mit ihm können mobile Befestigungen aufgebaut werden von denen "
-"Angriffe auf Posten der Außerirdischen ausgeführt werden können. Außerdem "
-"kann es effektives Unterstützungsfeuer oder Ablenkungsfeuer aus allen "
-"Entfernungen bieten. Man kann es auch einfach als eine mächtige Waffen aus "
-"mittlerer Entfernung benutzen.\n"
-"\n"
-"Es sollte ein Primärkandidat für jeden Soldaten mit Training in schweren "
-"Waffen sein.\n"
+"sein. Es kann eine große Anzahl von Runden ausspucken, um einen mächtigen "
+"Feind zu besiegen oder einen Treffer auf ein Ziel aus der Ferne durch "
+"anhaltendes Feuer zu erzielen. \n"
 "\n"
 "\n"
 "Zusatz\n"
@@ -21304,7 +21377,6 @@ msgstr ""
 "Keiner."
 
 #: ../base/ufos/msgid/weapons.ufo:1101
-#, fuzzy
 msgid ""
 "Our analysis of the Kerrblade is complete, Commander. Here is my summary for "
 "your review.\n"
@@ -21410,6 +21482,12 @@ msgstr ""
 "leider keine andere Nahkampfwaffe, die den Fähigkeiten der Kerrklinge auch "
 "nur nahekommt.\n"
 "\n"
+"Angesichts des ungewöhnlichen Griffs haben wir keine Spezifikationen für die "
+"Herstellung dieser Dinge im eigenen Haus erstellt. Sie können vorerst nur "
+"das verwenden, was Sie auf dem Schlachtfeld sammeln können, aber wir werden "
+"weiterhin Ideen entwickeln, wie diese Technologie in unsere eigenen Waffen "
+"integriert werden kann.\n"
+" \n"
 "--Cdr. Navarre"
 
 #: ../base/ufos/msgid/weapons.ufo:1111
@@ -21541,7 +21619,6 @@ msgstr ""
 "Cdr. Navarre"
 
 #: ../base/ufos/msgid/weapons.ufo:1139
-#, fuzzy
 msgid ""
 "Our notes have produced a lot of designs, and this is possibly the most "
 "difficult one to bring into reality: a deuterium-fluoride laser weapon the "
@@ -21579,7 +21656,6 @@ msgstr ""
 "Cdr. Navarre"
 
 #: ../base/ufos/msgid/weapons.ufo:1153
-#, fuzzy
 msgid ""
 "It's done, Commander. We are now the proud owners of a working laser rifle, "
 "with full production plans loaded into our computers. We've eliminated "
@@ -21622,8 +21698,8 @@ msgstr ""
 "funktionierenden Lasergewehres und die kompletten Produktionspläne sind in "
 "unsere Computer übertragen. Wir haben mehrere bewegliche Teile entfernt und "
 "die Elektronik verfeinert, um die Produktions- und Wartungskosten so zu "
-"senken, damit sie in unser Budget passen. Ich glaube, Sie werden die Daten "
-"der Waffe zufriedenstellend finden.\n"
+"senken, damit sie in unser Budget passen. Wir haben endlich ein Sturmgewehr, "
+"das außerirdische Rüstungen durchschlagen kann.\n"
 "\n"
 "Dieses Gewehr ist wahrscheinlich die zielgenaueste Waffe, die je entwickelt "
 "wurde. Es ist leicht, liegt gut in der Hand und die Fokussierlinsen "
@@ -21644,12 +21720,6 @@ msgstr ""
 "umgeben von einer Metallblende, die sich nur öffnet, wenn das Gewehr "
 "abgefeuert werden soll.\n"
 "\n"
-"Die größte Schwäche des Lasergewehres ist die Unfähigkeit, durch "
-"Rauchwolken, Gas oder Feuer zu schießen. Alle unser Laser haben dieses "
-"Problem; Wolken unterschiedlichen Materials brechen den Strahl schnell zu "
-"harmlosen Licht, also werden wir vorsichtig sein müssen, wie wir Rauch- oder "
-"Brandwaffen einsetzen.\n"
-"\n"
 "Wir haben das Gewehr so entwickelt, dass es die normalen D-F-Patronen "
 "benutzen kann, die wir gebaut haben, um unsere Laserwaffen zu betreiben. Das "
 "gibt dem Gewehr ungefähr zwei Minuten Dauerfeuer, bevor eine neue Patrone "
@@ -21659,12 +21729,13 @@ msgstr ""
 "die Mission beendet ist.\n"
 "\n"
 "Wir brauchen mindestens eine D-F-Patrone, um das Lasergewehr zu laden und zu "
-"benutzen.\n"
+"benutzen.Die Blaupausen für das Gewehr und die Munition sind bei den "
+"Ingenieuren in der Werkstatt, sodass Sie sofort mit der Produktion beginnen "
+"können \n"
 "\n"
 "Cdr. Navarre"
 
 #: ../base/ufos/msgid/weapons.ufo:1163
-#, fuzzy
 msgid ""
 "The laser rifle is the flagship design of our proposed deuterium-fluoride "
 "laser family, our best theory for punching through alien armour effective "
@@ -21689,16 +21760,15 @@ msgid ""
 "\n"
 "Cdr. Navarre"
 msgstr ""
-"Dies ist einer von mehreren Anträgen, den ich Ihnen zur Erforschung und "
-"Entwicklung neuer Laserwaffen zuschicke. Jede davon muss aufgrund der "
-"Größenunterschiede, Energiemengen und Komplexitäten der involvierten Systeme "
-"separat erforscht werden.\n"
-"\n"
-"Das Lasergewehr ist der primäre Entwurf unser neuen Deuterium-Fluorid-"
-"Laserfamilie. Es wird die perfekte Mischung aus Leistung, Genauigkeit, "
-"Reichweite, Beweglichkeit und Munitionskapazität sein. Sogar auf dem Papier "
-"kann das Lasergewehr mit jedem üblichen Sturmgewehr konkurrieren. Das "
-"einzige Problem wird es sein, es überhaupt zu bauen.\n"
+"Das Lasergewehr ist das Flaggschiff unserer vorgeschlagenen Deuterium-"
+"Fluorid-Laserfamilie, unserer besten Theorie zum Durchschlagen von Alien-"
+"Rüstungen, die gegen konventionelle Waffen und Plasmawaffen wirksam sind. Es "
+"wird eine perfekte Verbindung von Kraft, Genauigkeit, Reichweite, "
+"Manövrierfähigkeit und Munitionskapazität sein. Wenn unsere Theorien "
+"zutreffen, wird das Schadenspotential des Lasergewehrs gegen einen "
+"gepanzerten Außerirdischen das eines herkömmlichen Sturmgewehrs übertreffen "
+"und seine Genauigkeit wird es weit übertreffen. Das einzige Problem wird "
+"sein, es tatsächlich zu bauen. \n"
 "\n"
 "Die Bestandteile, die wir in unserem ersten Prototypen der fortgeschrittenen "
 "Lasertechnologie benutzt haben, waren unhandlich, zerbrechlich und sehr "
@@ -21805,7 +21875,6 @@ msgstr ""
 "Cdr. Navarre"
 
 #: ../base/ufos/msgid/weapons.ufo:1201
-#, fuzzy
 msgid ""
 "Commander, I'd like to report that we've successfully prototyped the new "
 "electrolaser design and have approved final plans for a production model. We "
@@ -21880,26 +21949,17 @@ msgstr ""
 "Unser Elektrolaser kann einen stabilen Plasmakanal über kurze bis mittlere "
 "Distanz, je nach Witterung, erschaffen und eine unvorstellbar große Spannung "
 "auf ein Ziel übertragen. Dies ist sowohl gegen organische als auch "
-"robotische Feinde effektiv. Er kann auf verschiedene Stufen eingestellt "
-"werden, von einem einfachen betäubenden Schock, bis hin zu einer "
-"Stromstärke, die einen elektrischen Stuhl übertrifft, was schwächere Ziele "
-"auf der Stelle tötet. Als Munition dient eine standardmäßige PHALANX-"
-"Deuterium-Fluroid-Patrone, welche genügend Energie für mehrere Schüsse "
-"bietet, sogar auf dem höchsten Energielevel.\n"
+"robotische Feinde effektiv.\n"
 "\n"
 "Nun die Nachteile.\n"
 "\n"
 "Diese um einiges stärkere Elektro/Laser-Ausrüstung hat, im Vergleich zum "
-"Betäubungsstab, an Größe und Gewicht zugenommen, was dazu führt, dass der "
-"Elektrolaser zu den schweren Waffen gezählt werden muss. Wie alle auf Laser "
-"basierenden Waffen wird er von Regen, Nebel, Rauch und anderen Umständen, "
-"welche die Luft verdichten oder Partikel in ihr erzeugen, beeinflusst. Wie "
-"alle elektrischen Waffen hat das Feuern auf Luftziele eher begrenzten Wert; "
-"außer sie sind nahe genug an einem geerdeten Objekt, das es der Elektrizität "
-"erlaubt, zwischen ihnen zu fließen. Dazu kommt noch, dass jeder Elektrolaser "
-"die richtige Art Atmosphäre braucht, um in der Lage zu sein, einen "
-"Plasmakanal zu erzeugen; außerhalb der Erde kann er sich also als komplett "
-"nutzlos erweisen.\n"
+"Betäubungsstab, an Größe und Gewicht zugenommen.Ein weiteres, praktischeres "
+"Problem ist das Aggregat. Mit unseren Standard-Deuterium-Fluorid-Patronen "
+"konnten wir das gewünschte Leistungsprofil nicht ganz erreichen, daher "
+"mussten wir das Munitionspaket selbst anpassen. Ich fürchte, dies bedeutet, "
+"dass Munition für den Elektrolaser NICHT gegen Munition für unsere regulären "
+"Laserwaffen austauschbar ist. \n"
 "\n"
 "Jedenfalls ist der Elektrolaser, wie groß auch immer die Nachteile sein "
 "mögen, dem Betäubungsstab von Dr. Conner um Lichtjahre voraus. Ich würde "
@@ -22058,7 +22118,6 @@ msgstr ""
 "Cdr. Navarre"
 
 #: ../base/ufos/msgid/weapons.ufo:1283
-#, fuzzy
 msgid ""
 "Technical Specifications: Medikit\n"
 "\n"
@@ -22187,7 +22246,8 @@ msgstr ""
 "weiterzukämpfen und zu hoffen, dass die Sanitäter rechtzeitig ankommen, "
 "falls diese nicht vor Angst erstarren oder in Panik ausbrechen oder nutzlose "
 "Versuche an einer Feldverarztung ohne ausreichende Fähigkeiten oder "
-"Materialien versuchen.\n"
+"Materialien versuchen. Wenn die Verwundeten überhaupt überleben würden, "
+"wären sie wochen- oder monatelang immer noch außer Gefecht gewesen.\n"
 "\n"
 "Das mag vielleicht eine tragbare Strategie in den Schützengräben des zweiten "
 "Weltkriegs gewesen sein, aber nun nicht mehr. Das Warten auf den Sanitäter "
@@ -22209,7 +22269,7 @@ msgstr ""
 "speziellen Heizeisen kautarisieren und, was viel wichtiger ist, seine Ladung "
 "Nanoroboter in eine Wunde geben.\n"
 "\n"
-"Die alte Idee medizinische Nanoroboter wurde als erstes vor 20 Jahren von "
+"Die alte Idee medizinische Nanoroboter wurde als erstes vor 30 Jahren von "
 "vietnamesischen Forschern realisiert. Heute ist Medizin ohne sie undenkbar. "
 "Nanoroboter sind winzige Roboter, mit einem Durchmesser von ein paar "
 "Mikrometern, die sehr schnell für verschiedene spezielle Aufgaben "
@@ -22260,7 +22320,14 @@ msgstr ""
 "\n"
 "Zusatz\n"
 "\n"
-"Keiner."
+"Medikits kommen mit drei vorbereiteten Behandlungsmöglichkeiten. Erste Hilfe "
+"anwenden behandelt die Wunden eines Soldaten und hemmt den Blutverlust einer "
+"Wunde, um sie am Leben zu erhalten. Es wird ein wenig Gesundheit "
+"wiederherstellen, aber die Soldaten müssen sich an der Basis erholen.\n"
+"\n"
+"Antipsychotika liefern eine Injektion von Endorphinen. Viele verzweifelte "
+"Kommandeure fanden es nützlich, die Moral bei sehr stressigen Einsätzen zu "
+"verbessern."
 
 #: ../base/ufos/msgid/weapons.ufo:1301
 msgid ""
@@ -22471,7 +22538,6 @@ msgstr ""
 "Cdr. Navarre"
 
 #: ../base/ufos/msgid/weapons.ufo:1349
-#, fuzzy
 msgid ""
 "Commander, we've figured out the secrets of the alien weapon. I'm afraid the "
 "news is not good.\n"
@@ -22594,7 +22660,6 @@ msgstr ""
 "Cdr. Navarre"
 
 #: ../base/ufos/msgid/weapons.ufo:1371
-#, fuzzy
 msgid ""
 "Commander, our assessment of the alien plasma grenade is complete. Like all "
 "the alien weapons, it's very nasty and very dangerous.\n"
@@ -22640,9 +22705,7 @@ msgstr ""
 "in der Lage, sie zu kopieren. Der Auslöser ist von besonderem Interesse, da "
 "er einen kleinen Daumenabdruckscanner beinhaltet, welcher sicherstellt, dass "
 "die Granate nicht aus versehen aktiviert wird. Eine wirkliche (also nicht "
-"versehentliche) Aktivierung startet den Countdown. Die Länge des Countdowns "
-"hängt davon ab, wie lange der Auslöser gedrückt gehalten wird, aber er hat "
-"ein Sicherheitsminimum von mindestens 3 Sekunden.\n"
+"versehentliche) Aktivierung startet den Countdown. \n"
 "\n"
 "Wenn der Timer Null erreicht, entfesselt die Batterie ihre Kraft und erhitzt "
 "den Wasserstoffkern zu Plasma in Millisekunden. Die Sprengladung wirbelt die "
@@ -25619,7 +25682,7 @@ msgstr "Holger Gellrich (ShipIt)"
 
 #: ../base/ufos/seq_credits.ufo:178
 msgid "Igor Gritsenko (Internecivus)"
-msgstr ""
+msgstr "Igor Gritsenko (Internecivus)"
 
 #: ../base/ufos/seq_credits.ufo:188
 msgid "cooler_sk"
@@ -25703,30 +25766,34 @@ msgstr "Die Community und alle die uns unterstützten"
 
 #: ../base/ufos/seq_tutorials.ufo:6
 msgid "INTRODUCTION"
-msgstr ""
+msgstr "EINLEITUNG"
 
 #: ../base/ufos/seq_tutorials.ufo:16 ../base/ufos/seq_tutorials.ufo:278
 #: ../base/ufos/seq_tutorials.ufo:648 ../base/ufos/seq_tutorials.ufo:1119
 #: ../base/ufos/seq_tutorials.ufo:1486 ../base/ufos/seq_tutorials.ufo:1666
 msgid "Left-click to continue. 'Esc' to exit"
-msgstr ""
+msgstr "Links-klick für weiter. 'ESC' für verlassen"
 
 #: ../base/ufos/seq_tutorials.ufo:26
-#, fuzzy
 msgid "Introduction"
-msgstr "Produktion"
+msgstr "EINLEITUNG"
 
 #: ../base/ufos/seq_tutorials.ufo:60
 msgid ""
 "UFO:Alien Invasion is divided into 2 main views: the battlescape and the "
 "geoscape."
 msgstr ""
+"UFO: Alien Invasion ist in zwei Hauptansichten unterteilt: die "
+"Schlachtlandschaft und die Geoscape."
 
 #: ../base/ufos/seq_tutorials.ufo:73
 msgid ""
 "The battlescape is a turn-based view used to battle against opponents during "
 "campaigns, or skirmish, or multiplayer games."
 msgstr ""
+"Die Schlachtlandschaft ist eine rundenbasierte Ansicht, die verwendet wird, "
+"um während Kampagnen, Gefechten oder Mehrspielerspielen gegen Gegner zu "
+"kämpfen."
 
 #: ../base/ufos/seq_tutorials.ufo:93
 msgid ""
@@ -25767,9 +25834,8 @@ msgid "CAMPAIGNS: PART 1"
 msgstr ""
 
 #: ../base/ufos/seq_tutorials.ufo:288
-#, fuzzy
 msgid "Campaigns: part 1"
-msgstr "Kampagne starten"
+msgstr "Kampagne: Teil 1"
 
 #: ../base/ufos/seq_tutorials.ufo:325
 msgid ""
@@ -25778,6 +25844,10 @@ msgid ""
 "radar towers to expand your vision, SAM sites to protect yourself, and UFO "
 "yards to store UFOs."
 msgstr ""
+"Während Kampagnen verwenden Sie häufig die Ansicht der Geoscape, die die "
+"Erde zeigt. Dort erstellen Sie Ihre Installationen: Stützpunkte zur "
+"Steigerung Ihrer Stärke, Radartürme zur Erweiterung Ihrer Sicht, SAM-"
+"Standorte zum Schutz Ihrer Person und UFO-Werften zur Aufbewahrung von UFOs."
 
 #: ../base/ufos/seq_tutorials.ufo:346
 msgid ""
@@ -25874,12 +25944,11 @@ msgstr ""
 
 #: ../base/ufos/seq_tutorials.ufo:638
 msgid "CAMPAIGNS: PART 2"
-msgstr ""
+msgstr "KAMPANGE: TEIL 2"
 
 #: ../base/ufos/seq_tutorials.ufo:658
-#, fuzzy
 msgid "Campaigns: part 2"
-msgstr "Kampagne starten"
+msgstr "Kampagne: Teil 2"
 
 #: ../base/ufos/seq_tutorials.ufo:703
 msgid ""
@@ -25999,19 +26068,21 @@ msgid ""
 msgstr ""
 
 #: ../base/ufos/seq_tutorials.ufo:1042
-#, fuzzy
 msgid ""
 "When defending a base, place a soldier in the command centre's video "
 "surveillance room. He will use the security cameras to locate enemies inside "
 "and outside the facilities of the base."
 msgstr ""
 "Platzieren Sie einen freien Soldaten in den Videoüberwachungsraum der "
-"Kommandozentrale während eines Angriffs auf die Basis. Ihr Soldat kann die "
-"Überwachungskameras um die Basis benutzen, um Feinde zu orten."
+"Kommandozentrale während eines Angriffs auf die Basis. Er wird "
+"Überwachungskameras um die Basis benutzen, um Feinde innerhalb und außerhalb "
+"der Gebäude zu orten."
 
 #: ../base/ufos/seq_tutorials.ufo:1063
 msgid "Wounded soldiers heal faster if there is a hospital in the base."
 msgstr ""
+"Verwundete Soldaten heilen sich schneller, wenn ein Hospital in der Basis "
+"ist."
 
 #: ../base/ufos/seq_tutorials.ufo:1109
 msgid "TACTICAL BATTLES"
@@ -26743,9 +26814,8 @@ msgstr ""
 "Überwachungskameras um die Basis benutzen, um Feinde zu orten."
 
 #: ../base/ufos/ui/_assets.ufo:55 ../base/ufos/ui/_assets_base.ufo:494
-#, fuzzy
 msgid "View UFOPaedia entry"
-msgstr "UFOpedia öffnen"
+msgstr "UFOPaedia-Eintrag anzeigen"
 
 #: ../base/ufos/ui/_assets.ufo:148 ../base/ufos/ui/hud_phone.ufo:157
 #: client/cgame/campaign/cp_installation_callbacks.cpp:194
@@ -26759,14 +26829,12 @@ msgid "Close this dialogue"
 msgstr "Dialog schließen"
 
 #: ../base/ufos/ui/_assets.ufo:505 ../base/ufos/ui/inv_stat.ufo:109
-#, fuzzy
 msgid "Strength"
-msgstr "Stärke:"
+msgstr "Stärke"
 
 #: ../base/ufos/ui/_assets.ufo:528 ../base/ufos/ui/inv_stat.ufo:117
-#, fuzzy
 msgid "Speed"
-msgstr "Geschwindigkeit:"
+msgstr "Geschwindigkeit"
 
 #: ../base/ufos/ui/_assets.ufo:551 ../base/ufos/ui/inv_stat.ufo:125
 #: client/cgame/campaign/cp_ufopedia.cpp:146
@@ -26774,9 +26842,8 @@ msgid "Accuracy"
 msgstr "Genauigkeit"
 
 #: ../base/ufos/ui/_assets.ufo:574 ../base/ufos/ui/inv_stat.ufo:133
-#, fuzzy
 msgid "Mind"
-msgstr "Verstand:"
+msgstr "Verstand"
 
 #: ../base/ufos/ui/_assets.ufo:608 ../base/ufos/ui/inv_stat.ufo:149
 msgid "CQB"
@@ -26815,19 +26882,16 @@ msgid "Enemies Killed:"
 msgstr "Gegner getötet:"
 
 #: ../base/ufos/ui/_assets.ufo:876
-#, fuzzy
 msgid "Piloting"
-msgstr "Manövrieren:"
+msgstr "Manövrieren"
 
 #: ../base/ufos/ui/_assets.ufo:895
-#, fuzzy
 msgid "Targeting"
-msgstr "Zielerfassung:"
+msgstr "Zielerfassung"
 
 #: ../base/ufos/ui/_assets.ufo:914
-#, fuzzy
 msgid "Evading"
-msgstr "Ausweichen:"
+msgstr "Ausweichen"
 
 #: ../base/ufos/ui/_assets_base.ufo:10
 msgid "Back"
@@ -26850,9 +26914,8 @@ msgid "Assign more scientists on this project"
 msgstr "Weisen Sie dem Projekt mehr Wissenschaftler zu"
 
 #: ../base/ufos/ui/_assets_base.ufo:612
-#, fuzzy
 msgid "Currently in research on another base"
-msgstr "Dies wird bereits in einer anderen Basis erforscht."
+msgstr "Dies wird bereits in einer anderen Basis erforscht"
 
 #: ../base/ufos/ui/_assets_base.ufo:629
 msgid "N/A"
@@ -26882,9 +26945,8 @@ msgid "Back to base"
 msgstr "Zurück zur Basisübersicht"
 
 #: ../base/ufos/ui/_assets_hud.ufo:135
-#, fuzzy
 msgid "current level"
-msgstr "Derzeitiger Wert."
+msgstr "Derzeitiger Wert"
 
 #: ../base/ufos/ui/_assets_hud.ufo:156
 #, fuzzy
@@ -26908,7 +26970,7 @@ msgstr "Gegner getötet:"
 
 #: ../base/ufos/ui/_assets_map.ufo:103
 msgid "The maximum number of enemies you could face"
-msgstr ""
+msgstr "Die maximale Anzahl von Feinden, denen Sie begegnen können"
 
 #: ../base/ufos/ui/_assets_map.ufo:167
 #, fuzzy
@@ -26916,9 +26978,8 @@ msgid "Alien rush"
 msgstr "Ansturm"
 
 #: ../base/ufos/ui/_assets_map.ufo:192
-#, fuzzy
 msgid "Dropship"
-msgstr "Einsatzschiff:"
+msgstr "Einsatzschiff"
 
 #: ../base/ufos/ui/_assets_map.ufo:236
 #: client/cgame/campaign/cp_aircraft.cpp:479
@@ -26927,18 +26988,16 @@ msgid "UFO"
 msgstr "UFO"
 
 #: ../base/ufos/ui/_assets_squad.ufo:49
-#, fuzzy
 msgid "Enemy weapons"
-msgstr "Schwere Waffen:"
+msgstr "Feindliche Waffen"
 
 #: ../base/ufos/ui/_assets_squad.ufo:99 ../base/ufos/ui/_assets_squad.ufo:474
 msgid "Squad"
-msgstr ""
+msgstr "Geschwader"
 
 #: ../base/ufos/ui/_assets_squad.ufo:138
-#, fuzzy
 msgid "Max Soldiers"
-msgstr "Max. Anzahl der Soldaten:"
+msgstr "Max. Anzahl der Soldaten"
 
 #: ../base/ufos/ui/_assets_squad.ufo:220
 #, fuzzy
@@ -26947,40 +27006,39 @@ msgstr "UBF's"
 
 #: ../base/ufos/ui/_assets_squad.ufo:297
 msgid "Selected squad name here"
-msgstr ""
+msgstr "Wähle ein Geschwadernamen"
 
 #: ../base/ufos/ui/_assets_squad.ufo:311 ../base/ufos/ui/campaign_main.ufo:47
 msgid "SAVE"
-msgstr ""
+msgstr "SPEICHERN"
 
 #: ../base/ufos/ui/_assets_squad.ufo:322
 msgid "EQUIP"
-msgstr ""
+msgstr "AUSTATTEN"
 
 #: ../base/ufos/ui/_assets_squad.ufo:350
-#, fuzzy
 msgid "Squad settings"
-msgstr "Soundeinstellungen"
+msgstr "Geschwader Einstellungen"
 
 #: ../base/ufos/ui/_assets_squad.ufo:357
 msgid "DEFAULT"
-msgstr ""
+msgstr "Standard"
 
 #: ../base/ufos/ui/_assets_squad.ufo:368
 msgid "CUSTOM"
-msgstr ""
+msgstr "Benutzerdefiniert"
 
 #: ../base/ufos/ui/_assets_squad.ufo:430
 msgid "NEW"
-msgstr ""
+msgstr "Neu"
 
 #: ../base/ufos/ui/_assets_squad.ufo:446 ../base/ufos/ui/campaign_main.ufo:36
 msgid "LOAD"
-msgstr ""
+msgstr "Laden"
 
 #: ../base/ufos/ui/_assets_squad.ufo:530 ../base/ufos/ui/multiplayer.ufo:245
 msgid "CREATE"
-msgstr ""
+msgstr "Erstellen"
 
 #: ../base/ufos/ui/_assets_squad.ufo:625 ../base/ufos/ui/multiplayer.ufo:100
 msgid "Currently loaded"
@@ -27023,9 +27081,8 @@ msgid "Add/remove soldier to the team"
 msgstr "Soldat hinzufügen/entfernen"
 
 #: ../base/ufos/ui/aircraft.ufo:161
-#, fuzzy
 msgid "Soldiers & Pilots"
-msgstr "Fähigkeiten"
+msgstr "Soldaten & Piloten"
 
 #: ../base/ufos/ui/aircraft.ufo:187
 msgid "Rename aircraft"
@@ -27126,9 +27183,8 @@ msgid "No soldiers assigned"
 msgstr "Kein Soldat zugewiesen"
 
 #: ../base/ufos/ui/aliencont.ufo:56 ../base/ufos/ui/aliencont.ufo:309
-#, fuzzy
 msgid "Kill one alien"
-msgstr "Töte diesen Außerirdischen"
+msgstr "Töte einen Außerirdischen"
 
 #: ../base/ufos/ui/aliencont.ufo:75
 msgid "Start autopsy"
@@ -27136,17 +27192,15 @@ msgstr "Starte Autopsie"
 
 #: ../base/ufos/ui/aliencont.ufo:171
 msgid "Race"
-msgstr ""
+msgstr "Gattung"
 
 #: ../base/ufos/ui/aliencont.ufo:179
-#, fuzzy
 msgid "Alive"
-msgstr "Lebendig:"
+msgstr "Lebendig"
 
 #: ../base/ufos/ui/aliencont.ufo:187
-#, fuzzy
 msgid "Dead"
-msgstr "Tot:"
+msgstr "Tot"
 
 #: ../base/ufos/ui/aliencont.ufo:196
 msgid "Kill all aliens in this base"
@@ -27218,9 +27272,8 @@ msgstr "Anvisiertes UFO:"
 
 #: ../base/ufos/ui/basedefence.ufo:341 ../base/ufos/ui/geoscape.ufo:1000
 #: ../base/ufos/ui/ufoyard.ufo:314
-#, fuzzy
 msgid "Time to completion:"
-msgstr "Bauzeit:"
+msgstr "Zeit für Fertigstellung:"
 
 #: ../base/ufos/ui/basedefence.ufo:354
 msgid "Autofire"
@@ -27259,7 +27312,7 @@ msgstr "Forscher"
 
 #: ../base/ufos/ui/bases.ufo:68 ../base/ufos/ui/bases.ufo:71
 msgid "Engineers"
-msgstr ""
+msgstr "Ingenieure"
 
 #: ../base/ufos/ui/bases.ufo:86 ../base/ufos/ui/bases.ufo:89
 #: ../base/ufos/ui/hire.ufo:84
@@ -27271,7 +27324,6 @@ msgid "Options"
 msgstr "Optionen"
 
 #: ../base/ufos/ui/bases.ufo:116
-#, fuzzy
 msgid "UFOpedia"
 msgstr "UFOpedia"
 
@@ -27286,9 +27338,8 @@ msgid "Transfer"
 msgstr "Transfer"
 
 #: ../base/ufos/ui/bases.ufo:150
-#, fuzzy
 msgid "Facilities"
-msgstr "Basiseinrichtung"
+msgstr "Einrichtungen"
 
 #: ../base/ufos/ui/bases.ufo:196 ../base/ufos/ui/geoscape.ufo:539
 #: client/cgame/campaign/cp_ufopedia.cpp:113
@@ -27305,11 +27356,11 @@ msgstr "Markt"
 #: ../base/ufos/ui/popup_exitcampaign.ufo:40 ../base/ufos/ui/skirmish.ufo:197
 #: ../base/ufos/ui/tutorials.ufo:70
 msgid "BACK"
-msgstr ""
+msgstr "ZURÜCK"
 
 #: ../base/ufos/ui/campaign_main.ufo:25 ../base/ufos/ui/missionmenu.ufo:121
 msgid "CONTINUE"
-msgstr ""
+msgstr "FORTFAHREN"
 
 #: ../base/ufos/ui/campaign_main.ufo:26 ../base/ufos/ui/missionmenu.ufo:122
 msgid "Leave this menu and continue playing."
@@ -27318,11 +27369,11 @@ msgstr "Dieses Menü verlassen und weiterspielen."
 #: ../base/ufos/ui/campaign_main.ufo:58 ../base/ufos/ui/main.ufo:95
 #: ../base/ufos/ui/missionmenu.ufo:137
 msgid "OPTIONS"
-msgstr ""
+msgstr "OPTIONEN"
 
 #: ../base/ufos/ui/campaign_main.ufo:68 ../base/ufos/ui/main.ufo:128
 msgid "EXIT"
-msgstr ""
+msgstr "BEENDEN"
 
 #: ../base/ufos/ui/cgame.ufo:22
 msgid "Remove this file from the server"
@@ -27339,7 +27390,6 @@ msgid "scrollbar"
 msgstr "Bildlauf"
 
 #: ../base/ufos/ui/endgame.ufo:111
-#, fuzzy
 msgid "Thank you for playing UFO:Alien Invasion"
 msgstr "Danke, dass Sie UFO: Alien Invasion gespielt haben"
 
@@ -27353,14 +27403,12 @@ msgid "Rename your unit"
 msgstr "Einheit umbenennen"
 
 #: ../base/ufos/ui/equipment.ufo:185 ../base/ufos/ui/inv_stat.ufo:333
-#, fuzzy
 msgid "Next soldier"
-msgstr "Soldat"
+msgstr "Nächster Soldat"
 
 #: ../base/ufos/ui/equipment.ufo:193 ../base/ufos/ui/inv_stat.ufo:342
-#, fuzzy
 msgid "Previous soldier"
-msgstr "Vorheriger Feuermodus"
+msgstr "Vorheriger Soldat"
 
 #: ../base/ufos/ui/equipment.ufo:250 ../base/ufos/ui/inv_stat.ufo:83
 msgid "0/0 Kg"
@@ -27601,9 +27649,8 @@ msgid "3D"
 msgstr "3D"
 
 #: ../base/ufos/ui/hire.ufo:57
-#, fuzzy
 msgid "Hire and Fire"
-msgstr "Reaktionsfeuer"
+msgstr "Rekrutieren und feuern"
 
 #: ../base/ufos/ui/hire.ufo:89
 msgid "Workers"
@@ -27651,9 +27698,8 @@ msgid "tt"
 msgstr ""
 
 #: ../base/ufos/ui/hud_default.ufo:298
-#, fuzzy
 msgid "Stats"
-msgstr "Status:"
+msgstr "Status"
 
 #: ../base/ufos/ui/hud_default.ufo:324
 msgid "Headgear"
@@ -27716,7 +27762,6 @@ msgid "*"
 msgstr ""
 
 #: ../base/ufos/ui/hud_default.ufo:1003
-#, fuzzy
 msgid "End Turn"
 msgstr "Runde beenden"
 
@@ -27738,9 +27783,8 @@ msgid "Target acquired"
 msgstr "Ziel erfasst"
 
 #: ../base/ufos/ui/hud_default.ufo:1244
-#, fuzzy
 msgid "Aborting fire!"
-msgstr "Kein Reaktionsfeuer"
+msgstr "Feuer einstellen!"
 
 #: ../base/ufos/ui/hud_default.ufo:1489
 msgid "Please wait"
@@ -27752,7 +27796,7 @@ msgstr "Rettungszone nicht mehr anzeigen"
 
 #: ../base/ufos/ui/hud_default.ufo:1646
 msgid "Default"
-msgstr ""
+msgstr "Standard"
 
 #: ../base/ufos/ui/hud_genradar.ufo:53
 msgid "Reinit"
@@ -27863,7 +27907,7 @@ msgstr "Chat"
 
 #: ../base/ufos/ui/irc.ufo:346
 msgid "Party chat"
-msgstr "Chat"
+msgstr "Gruppen Chat"
 
 #: ../base/ufos/ui/irc.ufo:364
 msgid "Global lobby (IRC)"
@@ -27983,11 +28027,11 @@ msgstr ""
 
 #: ../base/ufos/ui/main.ufo:73
 msgid "SKIRMISH"
-msgstr ""
+msgstr "GEPLÄNKEL"
 
 #: ../base/ufos/ui/main.ufo:84
 msgid "MULTIPLAYER"
-msgstr ""
+msgstr "MEHRSPIELER"
 
 #: ../base/ufos/ui/main.ufo:106 ../base/ufos/ui/tutorials.ufo:12
 msgid "TUTORIALS"
@@ -27995,7 +28039,7 @@ msgstr ""
 
 #: ../base/ufos/ui/main.ufo:117
 msgid "DEVELOPERS"
-msgstr ""
+msgstr "ENTWICKLER"
 
 #: ../base/ufos/ui/market.ufo:50
 #: client/cgame/campaign/cp_base_callbacks.cpp:223
@@ -28020,23 +28064,20 @@ msgid "Heavy Weapons"
 msgstr "Schwere Waffen:"
 
 #: ../base/ufos/ui/market.ufo:241
-#, fuzzy
 msgid "Aircraft Equipment"
-msgstr "Sonstige Ausrüstung"
+msgstr "Flugzeugausrüstung"
 
 #: ../base/ufos/ui/market.ufo:298
-#, fuzzy
 msgid "Implants"
-msgstr "Implantat"
+msgstr "Implantate"
 
 #: ../base/ufos/ui/market.ufo:324
-#, fuzzy
 msgid "Other Items"
-msgstr "Eigene"
+msgstr "Sonstige Gegenstände"
 
 #: ../base/ufos/ui/market.ufo:350
 msgid "Unmanned Ground Vehicles"
-msgstr ""
+msgstr "Unbemannte Bodenfahrzeige"
 
 #: ../base/ufos/ui/market.ufo:459
 msgid "Purchase for %i credits each"
@@ -28209,35 +28250,33 @@ msgstr "Spiel starten"
 
 #: ../base/ufos/ui/missionmenu.ufo:19 ../base/ufos/ui/multiplayer.ufo:421
 msgid "LOBBY"
-msgstr ""
+msgstr "EMPFANGSHALLE"
 
 #: ../base/ufos/ui/missionmenu.ufo:23
 msgid "ABORT GAME"
-msgstr ""
+msgstr "SPIEL ABBRECHEN"
 
 #: ../base/ufos/ui/missionmenu.ufo:28
-#, fuzzy
 msgid "Abort game"
 msgstr "Spiel abbrechen"
 
 #: ../base/ufos/ui/missionmenu.ufo:32
-#, fuzzy
 msgid "Do you really want to abort this game?"
-msgstr "Sicher, dass das gelagerte UFO verschrottet werden soll??"
+msgstr "Sicher, dass das Spiel abgebrochen werden soll?"
 
 #: ../base/ufos/ui/missionmenu.ufo:47
 msgid "RESTART MISSION"
-msgstr ""
+msgstr "MISSION NEUSTARTEN"
 
 #: ../base/ufos/ui/missionmenu.ufo:52
-#, fuzzy
 msgid "Restart mission"
 msgstr "Mission wiederholen"
 
 #: ../base/ufos/ui/missionmenu.ufo:56
-#, fuzzy
 msgid "Do you really want to restart this mission? You will lose all progress."
-msgstr "Sicher, dass die externe Einrichtung abgerissen werden soll?"
+msgstr ""
+"Möchtest du wirklich die Mission neu starten? Du wirst den gesamten "
+"Fortschritt verlieren."
 
 #: ../base/ufos/ui/missionmenu.ufo:60
 #, fuzzy
@@ -28277,11 +28316,11 @@ msgstr "Entferne aus den Favoriten"
 
 #: ../base/ufos/ui/multiplayer.ufo:236
 msgid "JOIN"
-msgstr ""
+msgstr "BEITRETEN"
 
 #: ../base/ufos/ui/multiplayer.ufo:254
 msgid "TEAM"
-msgstr ""
+msgstr "TEAM"
 
 #: ../base/ufos/ui/multiplayer.ufo:270
 msgid "Gametype:"
@@ -28499,7 +28538,6 @@ msgid "Remote Admin Control"
 msgstr "Admin Fernbedienung"
 
 #: ../base/ufos/ui/multiplayer.ufo:1551
-#, fuzzy
 msgid "Server Info"
 msgstr "Serverinformationen"
 
@@ -28629,9 +28667,8 @@ msgid "Geoscape Options"
 msgstr "Geoscape Optionen"
 
 #: ../base/ufos/ui/options.ufo:402
-#, fuzzy
 msgid "3D geoscape"
-msgstr "3D Geoscape:"
+msgstr "3D Geoscape"
 
 #: ../base/ufos/ui/options.ufo:403
 msgid "View the geoscape as a 3D globe"
@@ -28650,9 +28687,8 @@ msgid "Max"
 msgstr "M"
 
 #: ../base/ufos/ui/options.ufo:449
-#, fuzzy
 msgid "Camera zoom"
-msgstr "Kamera"
+msgstr "Kamera zoom"
 
 #: ../base/ufos/ui/options.ufo:490
 #, fuzzy
@@ -28695,9 +28731,8 @@ msgid "Display the number of frames rendered per second"
 msgstr "Zeigt die Anzahl der gerenderten Frames pro Sekunde an."
 
 #: ../base/ufos/ui/options.ufo:574
-#, fuzzy
 msgid "Skip Intro Video"
-msgstr "Introvideo abschalten:"
+msgstr "Introvideo überspringen"
 
 #: ../base/ufos/ui/options.ufo:575
 #, fuzzy
@@ -28730,7 +28765,7 @@ msgstr "Vollbild:"
 
 #: ../base/ufos/ui/options.ufo:697
 msgid "View the game in fullscreen instead of windowed mode"
-msgstr ""
+msgstr "Sehen Sie sich das Spiel im Vollbildmodus statt im Fenstermodus an"
 
 #: ../base/ufos/ui/options.ufo:723
 #, fuzzy
@@ -28772,9 +28807,8 @@ msgid "Screenshot quality"
 msgstr "Bildschirmschnappschuss-Format:"
 
 #: ../base/ufos/ui/options.ufo:904
-#, fuzzy
 msgid "Video quality"
-msgstr "Niedrige Qualität"
+msgstr "Grafik Qualität"
 
 #: ../base/ufos/ui/options.ufo:910
 msgid "Default video configuration settings"
@@ -28879,9 +28913,8 @@ msgid "Fades distant objects on the battlescape"
 msgstr "Objekte auf Karte zentrieren"
 
 #: ../base/ufos/ui/options.ufo:1233
-#, fuzzy
 msgid "Weather"
-msgstr "Andere"
+msgstr "Wetter"
 
 #: ../base/ufos/ui/options.ufo:1234
 #, fuzzy
@@ -28903,24 +28936,20 @@ msgid "Music volume"
 msgstr ""
 
 #: ../base/ufos/ui/options.ufo:1356
-#, fuzzy
 msgid "Enable music"
-msgstr "Sound aktivieren:"
+msgstr "Sound aktivieren"
 
 #: ../base/ufos/ui/options.ufo:1383
-#, fuzzy
 msgid "Sound effects"
-msgstr "Soundeffekte:"
+msgstr "Soundeffekte"
 
 #: ../base/ufos/ui/options.ufo:1415
-#, fuzzy
 msgid "Menu sounds"
-msgstr "Menü-Sound:"
+msgstr "Menü-Sound"
 
 #: ../base/ufos/ui/options.ufo:1442
-#, fuzzy
 msgid "Audio sample rate"
-msgstr "Audio-Abtastrate:"
+msgstr "Audio-Abtastrate"
 
 #: ../base/ufos/ui/options.ufo:1443
 msgid "Higher sample rates provide better audio quality"
@@ -29190,7 +29219,7 @@ msgstr ""
 
 #: ../base/ufos/ui/options.ufo:2668
 msgid "MENU"
-msgstr ""
+msgstr "MENÜ"
 
 #: ../base/ufos/ui/options.ufo:2669
 msgid "GLOBAL"
@@ -29270,7 +29299,7 @@ msgstr "Zur Basis"
 
 #: ../base/ufos/ui/popup_exitcampaign.ufo:24
 msgid "EXIT CAMPAIGN CONFIRMATION"
-msgstr ""
+msgstr "KAMPANGE BEENDEN BESTÄTIGEN"
 
 #: ../base/ufos/ui/popup_exitcampaign.ufo:32
 msgid "You will lose all your campaign progress."
@@ -29278,7 +29307,7 @@ msgstr "Aller Kampagnenfortschritt wird verloren gehen."
 
 #: ../base/ufos/ui/popup_exitcampaign.ufo:52
 msgid "QUIT"
-msgstr ""
+msgstr "BEENDEN"
 
 #: ../base/ufos/ui/popup_installations.ufo:80
 msgid "New installation"
@@ -29348,7 +29377,6 @@ msgid "Disassembly"
 msgstr "Demontage"
 
 #: ../base/ufos/ui/production.ufo:110
-#, fuzzy
 msgid "Item"
 msgstr "Gegenstände"
 
@@ -29382,9 +29410,8 @@ msgid "Requirements"
 msgstr "Anforderungen"
 
 #: ../base/ufos/ui/research.ufo:55
-#, fuzzy
 msgid "idle scientists"
-msgstr "Forscher"
+msgstr "unausgelastete Forscher"
 
 #: ../base/ufos/ui/research.ufo:65
 msgid "Topics"
@@ -29676,9 +29703,8 @@ msgid "disassembling"
 msgstr "Demontage"
 
 #: ../base/ufos/ui/ufoyard.ufo:629
-#, fuzzy
 msgid "transferring"
-msgstr "Transfer"
+msgstr "Transferieren"
 
 #: ../base/ufos/ui/ufoyard.ufo:635
 msgid "stored"
@@ -31219,18 +31245,16 @@ msgid "Buy or produce at least one aircraft first."
 msgstr "Kaufen oder produzieren Sie zuerst ein Flugzeug."
 
 #: client/cgame/campaign/cp_base_callbacks.cpp:309
-#, fuzzy
 msgid "No Hangar operating at this base."
-msgstr "Kein Hangar in dieser Basis.\n"
+msgstr "Kein Hangar in dieser Basis."
 
 #: client/cgame/campaign/cp_base_callbacks.cpp:313
 msgid "Buy/Sell equipment, aircraft and UGV"
 msgstr "Ausrüstung, Flugzeuge und UBF's kaufen/verkaufen"
 
 #: client/cgame/campaign/cp_base_callbacks.cpp:315
-#, fuzzy
 msgid "No Storage operating at this base."
-msgstr "Kein Lager in dieser Basis.\n"
+msgstr "Kein Lager in dieser Basis."
 
 #: client/cgame/campaign/cp_base_callbacks.cpp:318
 msgid "Transfer equipment, vehicles, aliens and employees to other bases"
@@ -31249,45 +31273,40 @@ msgid "Research new technology"
 msgstr "Erforsche neue Techologien"
 
 #: client/cgame/campaign/cp_base_callbacks.cpp:325
-#, fuzzy
 msgid "No Laboratory operating at this base."
-msgstr "Kein operationsbereiter Hangar in dieser Basis."
+msgstr "Kein Forschungslabor in dieser Basis."
 
 #: client/cgame/campaign/cp_base_callbacks.cpp:328
 msgid "Produce equipment, aircraft and UGV"
 msgstr "Ausrüstungsgegenstände, Flugzeuge und UBF's herstellen"
 
 #: client/cgame/campaign/cp_base_callbacks.cpp:330
-#, fuzzy
 msgid "No Workshop operating at this base."
-msgstr "Kein operationsbereiter Hangar in dieser Basis."
+msgstr "Keine Werkstadt in dieser Basis."
 
 #: client/cgame/campaign/cp_base_callbacks.cpp:333
 msgid "Hire or dismiss employees"
 msgstr "Anheuern und entlassen von Mitarbeitern"
 
 #: client/cgame/campaign/cp_base_callbacks.cpp:335
-#, fuzzy
 msgid "No Living Quarters operating at this base."
-msgstr "Keine Quartiere in dieser Basis.\n"
+msgstr "Keine Wohnquartiere in dieser Basis."
 
 #: client/cgame/campaign/cp_base_callbacks.cpp:338
 msgid "Manage captured aliens"
 msgstr "Gefangengenommene Außerirdische verwalten"
 
 #: client/cgame/campaign/cp_base_callbacks.cpp:340
-#, fuzzy
 msgid "No Containment operating at this base."
-msgstr "Keine Quarantänestation in dieser Basis.\n"
+msgstr "Keine Quarantänestation in dieser Basis."
 
 #: client/cgame/campaign/cp_base_callbacks.cpp:343
 msgid "Treat wounded soldiers and perform implant surgery"
 msgstr "Verwundete Soldaten behandeln und Prothesen implantieren"
 
 #: client/cgame/campaign/cp_base_callbacks.cpp:345
-#, fuzzy
 msgid "No Hospital operating at this in base."
-msgstr "Kein operationsbereiter Hangar in dieser Basis."
+msgstr "Kein Krankenhaus in dieser Basis."
 
 #: client/cgame/campaign/cp_base_callbacks.cpp:577
 msgid "Base is under attack, you can't destroy buildings!"
@@ -31315,14 +31334,13 @@ msgid "Destroy Alien Containment"
 msgstr "Quarantänestation"
 
 #: client/cgame/campaign/cp_base_callbacks.cpp:601
-#, fuzzy
 msgid ""
 "If you destroy this building, you will also kill the aliens inside.\n"
 "Are you sure you want to destroy this building?"
 msgstr ""
-"Wenn dieser Hangar abgerissen wird, wird auch das darin untergebrachte "
-"Flugzeug zerstört.\n"
-"Soll das Gebäude wirklich abgerissen werden?"
+"Wenn Sie dieses Gebäude zerstören, töten Sie auch die Außerirdischen im "
+"Inneren.\n"
+"Bist du sicher, dass du dieses Gebäude zerstören willst?"
 
 #: client/cgame/campaign/cp_base_callbacks.cpp:602
 msgid "Containment"
@@ -31771,32 +31789,32 @@ msgid "This item is functional.\n"
 msgstr "Gegenstand ist einsatzbereit.\n"
 
 #: client/cgame/campaign/cp_fightequip_callbacks.cpp:367
-#, fuzzy, c-format
+#, c-format
 msgid "This item will be installed in %i hour.\n"
 msgid_plural "This item will be installed in %i hours.\n"
 msgstr[0] "Gegenstand wird in %i Std. installiert sein.\n"
-msgstr[1] "Gegenstand wird in %i Std. installiert sein.\n"
+msgstr[1] "Gegenstände werden in %i Std. installiert sein.\n"
 
 #: client/cgame/campaign/cp_fightequip_callbacks.cpp:370
-#, fuzzy, c-format
+#, c-format
 msgid "%s will be removed in %i hour.\n"
 msgid_plural "%s will be removed in %i hours.\n"
 msgstr[0] "%s wird in %i Std. entfernt sein.\n"
-msgstr[1] "%s wird in %i Std. entfernt sein.\n"
+msgstr[1] "%s werden in %i Std. entfernt sein.\n"
 
 #: client/cgame/campaign/cp_fightequip_callbacks.cpp:372
-#, fuzzy, c-format
+#, c-format
 msgid "%s will be installed in %i hour.\n"
 msgid_plural "%s will be installed in %i hours.\n"
 msgstr[0] "%s wird in %i Std. installiert sein.\n"
-msgstr[1] "%s wird in %i Std. installiert sein.\n"
+msgstr[1] "%s werden in %i Std. installiert sein.\n"
 
 #: client/cgame/campaign/cp_fightequip_callbacks.cpp:376
-#, fuzzy, c-format
+#, c-format
 msgid "This item will be removed in %i hour.\n"
 msgid_plural "This item will be removed in %i hours.\n"
 msgstr[0] "Gegenstand wird in %i Std. demontiert sein.\n"
-msgstr[1] "Gegenstand wird in %i Std. demontiert sein.\n"
+msgstr[1] "Gegenstände wird in %i Std. demontiert sein.\n"
 
 #: client/cgame/campaign/cp_fightequip_callbacks.cpp:386
 msgid "No ammo assigned to this weapon."
@@ -32750,7 +32768,7 @@ msgstr ""
 
 #: client/cgame/campaign/cp_save.cpp:281
 msgid "Saving is not possible: No base is built."
-msgstr ""
+msgstr "Speichern ist nicht möglich: Keine Bais erreichtet."
 
 #: client/cgame/campaign/cp_save.cpp:350
 msgid "Could not allocate enough memory to save this game"
@@ -32895,7 +32913,6 @@ msgstr ""
 "Momentane extraterrestrische Virusinfektion: %i%%"
 
 #: client/cgame/campaign/cp_team_callbacks.cpp:226
-#, fuzzy
 msgid "No more employees can be assigned to this aircraft"
 msgstr "Diesem Flugzeug können keine weiteren Soldaten zugewiesen werden"
 
@@ -33090,14 +33107,12 @@ msgid "Maximum speed"
 msgstr "Maximale Geschwindigkeit"
 
 #: client/cgame/campaign/cp_ufopedia.cpp:142
-#, fuzzy
 msgid "Evasion"
-msgstr "Anwesen"
+msgstr "Ausweichen"
 
 #: client/cgame/campaign/cp_ufopedia.cpp:144
-#, fuzzy
 msgid "Hull strength"
-msgstr "Stärke:"
+msgstr "Hüllenstärke"
 
 #: client/cgame/campaign/cp_ufopedia.cpp:148
 msgid "Fuel size"
@@ -33108,9 +33123,8 @@ msgid "Weapon range"
 msgstr "Reichweite"
 
 #: client/cgame/campaign/cp_ufopedia.cpp:152
-#, fuzzy
 msgid "Antimatter need"
-msgstr "Antimaterie"
+msgstr "Antimaterie nötig"
 
 #: client/cgame/campaign/cp_ufopedia.cpp:173
 msgid "No requirements"
@@ -33138,9 +33152,8 @@ msgid "Weight:\t%s\n"
 msgstr "Gewicht:\t%s\n"
 
 #: client/cgame/campaign/cp_ufopedia.cpp:264
-#, fuzzy
 msgid "Weapon for air defence system\n"
-msgstr "Waffe für Basisverteidigungssystem\n"
+msgstr "Waffe für Luftverteidigungssystem\n"
 
 #: client/cgame/campaign/cp_ufopedia.cpp:284
 #, c-format
@@ -33268,7 +33281,7 @@ msgid "Re: %s"
 msgstr "AW:  %s"
 
 #: client/cgame/campaign/cp_uforecovery.cpp:56
-#, fuzzy, c-format
+#, c-format
 msgid "%s was transferred to %s."
 msgstr "%s wurde zur Basis %s transferiert."
 
@@ -33734,9 +33747,8 @@ msgid "Unknown - not useable"
 msgstr "Unbekannte Technologie - nicht benutzbar"
 
 #: client/cl_inventory_callbacks.cpp:402
-#, fuzzy
 msgid "Warning!"
-msgstr "Warnung"
+msgstr "Warnung!"
 
 #: client/cl_irc.cpp:1424
 msgid "Server closed connection"
