@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: UFO Alien Invasion\n"
 "Report-Msgid-Bugs-To: tlh2000@users.sourceforge.net\n"
 "POT-Creation-Date: 2017-10-12 13:21-0500\n"
-"PO-Revision-Date: 2021-03-07 11:48+0100\n"
+"PO-Revision-Date: 2021-03-07 14:30+0100\n"
 "Last-Translator: Martin Gerhardy <tlh2000@users.sourceforge.net>\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -1110,7 +1110,7 @@ msgstr "Douglas (Isle of Man)"
 
 #: ../base/ufos/cities.ufo:711
 msgid "Dresden"
-msgstr ""
+msgstr "Dresden"
 
 #: ../base/ufos/cities.ufo:717
 msgid "Dublin"
@@ -3063,12 +3063,10 @@ msgid "A container harbour."
 msgstr "Ein Containerhafen."
 
 #: ../base/ufos/maps.ufo:5564
-#, fuzzy
 msgid "Village MP (2)"
 msgstr "Dorfabgeordneter (2)"
 
 #: ../base/ufos/maps.ufo:5583
-#, fuzzy
 msgid "Village MP (3)"
 msgstr "Dorfabgeordneter (3)"
 
@@ -24343,6 +24341,7 @@ msgstr ""
 "Dr. Connor"
 
 #: ../base/ufos/msgid/weapons.ufo:1883
+#, fuzzy
 msgid "stungren_alien_txt"
 msgstr "<TODO>"
 
@@ -25522,8 +25521,9 @@ msgid "Igor Gritsenko (Internecivus)"
 msgstr "Igor Gritsenko (Internecivus)"
 
 #: ../base/ufos/seq_credits.ufo:188
+#, fuzzy
 msgid "cooler_sk"
-msgstr ""
+msgstr "<TODO>"
 
 #: ../base/ufos/seq_credits.ufo:202
 msgid "Other contributors"
@@ -25637,6 +25637,8 @@ msgid ""
 "The geoscape is a real-time view used to follow the scenario that unfolds "
 "during campaigns."
 msgstr ""
+"Die Geoscape ist eine Echtzeitansicht, die verwendet wird, um das Szenario "
+"zu verfolgen, das sich während Kampagnen abspielt."
 
 #: ../base/ufos/seq_tutorials.ufo:114
 msgid ""
@@ -25644,12 +25646,18 @@ msgid ""
 "and engineers. You will need money to win: monitor statistics, and funding "
 "carefully."
 msgstr ""
+"Während Kampagnen müssen Sie Stützpunkte, Flugzeuge, Soldaten, "
+"Wissenschaftler und Ingenieure verwalten. Sie benötigen Geld, um zu "
+"gewinnen: Überwachen Sie Statistiken und finanzieren Sie sorgfältig."
 
 #: ../base/ufos/seq_tutorials.ufo:201
 msgid ""
 "Skirmish mode allows you to battle on a chosen map: your squad (Phalanx, or "
 "aliens) against another squad controlled by the computer."
 msgstr ""
+"Im Scharmützelmodus können Sie auf einer ausgewählten Karte kämpfen: Ihrem "
+"Trupp (Phalanx oder Aliens) gegen einen anderen Trupp, der vom Computer "
+"gesteuert wird."
 
 #: ../base/ufos/seq_tutorials.ufo:222
 msgid ""
@@ -25658,13 +25666,17 @@ msgid ""
 "a server if you want to host a game, or connect to the lobby to wait for an "
 "active server."
 msgstr ""
+"Im Mehrspielermodus können Sie auf einer ausgewählten Karte kämpfen: Ihrem "
+"Trupp (Phalanx oder Aliens) gegen oder mit anderen Trupps, die von "
+"menschlichen Spielern kontrolliert werden. Starten Sie einen Server, wenn "
+"Sie ein Spiel hosten möchten, oder stellen Sie eine Verbindung zur Lobby "
+"her, um auf einen aktiven Server zu warten."
 
 #: ../base/ufos/seq_tutorials.ufo:247 ../base/ufos/seq_tutorials.ufo:617
 #: ../base/ufos/seq_tutorials.ufo:1088 ../base/ufos/seq_tutorials.ufo:1455
 #: ../base/ufos/seq_tutorials.ufo:1635 ../base/ufos/seq_tutorials.ufo:1894
-#, fuzzy
 msgid "The end"
-msgstr "Der außerirdische Verstand"
+msgstr "Ende"
 
 #: ../base/ufos/seq_tutorials.ufo:268
 msgid "CAMPAIGNS: PART 1"
@@ -25704,6 +25716,11 @@ msgid ""
 "'Message settings' button, and you can change the size of the list by "
 "pressing the button on the left of date and time."
 msgstr ""
+"Ereignisse werden in einer Liste oben in der Geosphäre protokolliert und "
+"können das Spiel automatisch anhalten. Sie können die Standardeinstellungen "
+"mit der Schaltfläche \"Nachrichteneinstellungen\" ändern und die Größe der "
+"Liste ändern, indem Sie auf die Schaltfläche links neben Datum und Uhrzeit "
+"klicken."
 
 #: ../base/ufos/seq_tutorials.ufo:388
 msgid ""
@@ -25711,10 +25728,13 @@ msgid ""
 "change game options. And filters allow you to see nations' borders, or "
 "radars' ranges."
 msgstr ""
+"Sie können den Globus drehen oder zu verschiedenen Orten auf dem Planeten "
+"springen. Sie können die Spieloptionen ändern. Mithilfe von Filtern können "
+"Sie die Grenzen der Nationen oder die Radarbereiche anzeigen."
 
 #: ../base/ufos/seq_tutorials.ufo:408
 msgid "For example, with some filters on..."
-msgstr ""
+msgstr "Zum Beispiel mit einigen Filtern auf..."
 
 #: ../base/ufos/seq_tutorials.ufo:429
 msgid ""
@@ -25732,6 +25752,8 @@ msgid ""
 "Mails often pop into the mailbox when new elements arise, for example after "
 "scientific breakthroughs or after missions."
 msgstr ""
+"Mails werden häufig in die Mailbox gestellt, wenn neue Elemente entstehen, "
+"beispielsweise nach wissenschaftlichen Durchbrüchen oder nach Missionen."
 
 #: ../base/ufos/seq_tutorials.ufo:470
 msgid ""
@@ -25739,6 +25761,10 @@ msgid ""
 "use your ground defences, or your aircraft: double-click on an enemy "
 "aircraft, and pick one of your interceptor from the list."
 msgstr ""
+"Das Abschießen von UFOs mit Luftverteidigung ist ein üblicher Weg, um "
+"Missionen zu erhalten. Verwenden Sie entweder Ihre Bodenverteidigung oder "
+"Ihr Flugzeug: Doppelklicken Sie auf ein feindliches Flugzeug und wählen Sie "
+"einen Ihrer Abfangjäger aus der Liste aus."
 
 #: ../base/ufos/seq_tutorials.ufo:490
 msgid ""
@@ -25747,6 +25773,11 @@ msgid ""
 "one order in the list, or click somewhere on the map. The game automatically "
 "manages fuel for you."
 msgstr ""
+"Die roten Kreise zeigen die Reichweite der Waffen. Die dünne rote Linie "
+"führt zum Abfangbereich. So ändern Sie Ihre Bestellungen: Klicken Sie auf "
+"Ihr Flugzeug und wählen Sie eine Bestellung in der Liste aus oder klicken "
+"Sie irgendwo auf der Karte. Das Spiel verwaltet automatisch den Kraftstoff "
+"für Sie."
 
 #: ../base/ufos/seq_tutorials.ufo:511
 msgid ""
@@ -25755,6 +25786,10 @@ msgid ""
 "Arrival), which is the time needed to reach the site, and to come back to "
 "base."
 msgstr ""
+"Um Missionen auszuwählen, doppelklicken Sie auf eine Missionsseite und "
+"wählen Sie eines Ihrer Transportflugzeuge aus der Liste aus. Beobachten Sie "
+"sorgfältig die ETA (Estimated Time of Arrival), die Zeit, die benötigt wird, "
+"um den Standort zu erreichen und zur Basis zurückzukehren."
 
 #: ../base/ufos/seq_tutorials.ufo:531
 msgid ""
@@ -25763,6 +25798,11 @@ msgid ""
 "Be careful: 'Auto mission' may lead to terrible results if you underestimate "
 "enemy forces."
 msgstr ""
+"Wenn Ihr Flugzeug den von Ihnen ausgewählten Ort erreicht, drücken Sie die "
+"Eingabetaste, um in der Schlachtlandschaft zu kämpfen, oder drücken Sie die "
+"automatische Mission, um den Kampf automatisch zu lösen. Seien Sie "
+"vorsichtig: \"Auto Mission\" kann zu schrecklichen Ergebnissen führen, wenn "
+"Sie die feindlichen Streitkräfte unterschätzen."
 
 #: ../base/ufos/seq_tutorials.ufo:552
 msgid ""
@@ -25770,6 +25810,10 @@ msgid ""
 "happiness of nations, and... the higher your funding. Ignoring, or (worse) "
 "loosing missions, greatly damages your reputation."
 msgstr ""
+"Je mehr Sie Missionen erreichen, desto besser sind Ihre Statistiken, desto "
+"größer ist das Glück der Nationen und ... desto höher ist Ihre Finanzierung. "
+"Das Ignorieren oder (schlimmer noch) das Verlieren von Missionen schadet "
+"Ihrem Ruf erheblich."
 
 #: ../base/ufos/seq_tutorials.ufo:572
 msgid ""
@@ -25778,6 +25822,11 @@ msgid ""
 "the nations gave to you. You can have a closer look to this by clicking on "
 "nations' names."
 msgstr ""
+"Statistiken zeigen, wie viele Missionen Sie gewonnen oder verloren haben, "
+"wie viele Installationen Sie besitzen, wie viele Mitarbeiter für Sie "
+"arbeiten, wie viel Sie ausgegeben haben und wie viel die Nationen Ihnen "
+"gegeben haben. Sie können dies genauer betrachten, indem Sie auf die Namen "
+"der Nationen klicken."
 
 #: ../base/ufos/seq_tutorials.ufo:592
 msgid ""
@@ -25786,6 +25835,11 @@ msgid ""
 "their population, and land. Decreasing funding is a serious clue that you "
 "missed something..."
 msgstr ""
+"Der Betrag, den Sie erhalten, erhöht sich, wenn Nationen sicher sind, dass "
+"Sie sich für die Invasion von Außerirdischen in ihrem Territorium "
+"interessieren. Es nimmt ab, wenn Sie die Bevölkerung und das Land nicht "
+"schützen. Eine Verringerung der Finanzierung ist ein schwerwiegender Hinweis "
+"darauf, dass Sie etwas verpasst haben ..."
 
 #: ../base/ufos/seq_tutorials.ufo:638
 msgid "CAMPAIGNS: PART 2"
@@ -25800,12 +25854,17 @@ msgid ""
 "A campaign begins after you have built your home base. Remember that aliens "
 "are prone to attack highly populated areas."
 msgstr ""
+"Eine Kampagne beginnt, nachdem Sie Ihre Heimatbasis aufgebaut haben. Denken "
+"Sie daran, dass Außerirdische dazu neigen, dicht besiedelte Gebiete "
+"anzugreifen."
 
 #: ../base/ufos/seq_tutorials.ufo:724
 msgid ""
 "The first base comes with facilities, employees, equipment, aircraft, and "
 "money. Amounts depend on the level of difficulty of the campaign."
 msgstr ""
+"Die erste Basis besteht aus Einrichtungen, Mitarbeitern, Ausrüstung, "
+"Flugzeugen und Geld. Die Höhe hängt vom Schwierigkeitsgrad der Kampagne ab."
 
 #: ../base/ufos/seq_tutorials.ufo:744
 msgid ""
@@ -25814,6 +25873,11 @@ msgid ""
 "empty spaces. One power plant, and one command centre are mandatory to make "
 "a base operational."
 msgstr ""
+"Andere Basen beginnen nur mit einem Eingang und wenigen unzerstörbaren "
+"Gesteinen, die die Entwicklung behindern. Wählen Sie einfach Einrichtungen "
+"in der Liste aus, um mit dem Bauen in leeren Räumen zu beginnen. Ein "
+"Kraftwerk und eine Kommandozentrale sind obligatorisch, um eine Basis "
+"betriebsbereit zu machen."
 
 #: ../base/ufos/seq_tutorials.ufo:774
 msgid ""
@@ -25822,6 +25886,11 @@ msgid ""
 "advanced radar), and the workshop. During battles, enemies can come from "
 "there; or you can try to flank them."
 msgstr ""
+"Denken Sie beim Anordnen Ihrer Stützpunkte daran, dass einige Einrichtungen "
+"direkten Zugang zur Oberfläche haben: der Eingang, der Dropship-Hangar, das "
+"Radar (aber nicht das fortgeschrittene Radar) und die Werkstatt. Während der "
+"Schlachten können Feinde von dort kommen; oder Sie können versuchen, sie zu "
+"flankieren."
 
 #: ../base/ufos/seq_tutorials.ufo:795
 msgid ""
@@ -25830,6 +25899,11 @@ msgid ""
 "switch between bases, use arrows, or the tiny squares sketching in your "
 "bases."
 msgstr ""
+"Die Verwendung der Benutzeroberfläche ist einfach. Oben auf dem Bildschirm: "
+"Um zur Geosphäre zurückzukehren, klicken Sie auf den Globus (oder drücken "
+"Sie 'Esc'). Um eine Basis umzubenennen, klicken Sie auf ihren Namen. "
+"Verwenden Sie zum Wechseln zwischen Basen Pfeile oder die winzigen Quadrate, "
+"die in Ihren Basen skizzieren."
 
 #: ../base/ufos/seq_tutorials.ufo:815
 msgid ""
@@ -25837,6 +25911,10 @@ msgid ""
 "silhouettes, or click on the facilities of the base (right-click to destroy "
 "them). Notice the short overviews about facilities, research, and production."
 msgstr ""
+"Menü auf der rechten und mittleren Ansicht: Um Gebäude zu betreten, klicken "
+"Sie auf Symbole oder Silhouetten oder klicken Sie auf die Einrichtungen der "
+"Basis (klicken Sie mit der rechten Maustaste, um sie zu zerstören). Beachten "
+"Sie die kurzen Übersichten zu Einrichtungen, Forschung und Produktion."
 
 #: ../base/ufos/seq_tutorials.ufo:835
 msgid ""
@@ -25844,6 +25922,11 @@ msgid ""
 "fire' window; click on buttons to access game options, or UFOpaedia, or the "
 "'Transfer' window, or detailed statistics about the current base."
 msgstr ""
+"Unten auf dem Bildschirm: Klicken Sie auf die Zusammenfassung der "
+"Mitarbeiter, um auf das Fenster \"Einstellung und Entlassung\" zuzugreifen. "
+"Klicken Sie auf die Schaltflächen, um auf Spieloptionen, UFOpaedia, das "
+"Fenster \"Übertragen\" oder detaillierte Statistiken zur aktuellen Basis "
+"zuzugreifen."
 
 #: ../base/ufos/seq_tutorials.ufo:856
 msgid ""
@@ -25852,6 +25935,11 @@ msgid ""
 "pilots are not all equally gifted. All employees stay in living quarters and "
 "come without any equipment."
 msgstr ""
+"Am 1. jedes Monats schlagen die Nationen einige Kandidaten vor: Verwenden "
+"Sie in einer Basis Kontrollkästchen in der Nähe von Namen, um sie "
+"einzustellen oder zu entlassen; Beachten Sie, dass Soldaten und Piloten "
+"nicht alle gleich begabt sind. Alle Mitarbeiter bleiben in Wohnräumen und "
+"kommen ohne Ausrüstung."
 
 #: ../base/ufos/seq_tutorials.ufo:877
 msgid ""
@@ -25860,6 +25948,11 @@ msgid ""
 "bottom of the screen to get quick information about them. Keep unknown items "
 "until research was done."
 msgstr ""
+"Auf dem Markt können Sie Artikel kaufen oder verkaufen: Horizontale "
+"Registerkarten sortieren Artikel nach Typen; Verwenden Sie Pfeile, um "
+"Objekte zu kaufen oder zu verkaufen, und überprüfen Sie die Zusammenfassung "
+"am unteren Bildschirmrand, um schnelle Informationen zu diesen zu erhalten. "
+"Bewahren Sie unbekannte Gegenstände auf, bis die Recherche abgeschlossen ist."
 
 #: ../base/ufos/seq_tutorials.ufo:898
 msgid ""
@@ -25868,6 +25961,12 @@ msgid ""
 "to assemble the first element in the production waiting list till required "
 "quantities are done; then they shift to their second task; and so on."
 msgstr ""
+"Die Werkstatt besteht darin, Gegenstände herzustellen, die nicht gekauft "
+"werden können, und UFOs zu zerlegen, um ihre Komponenten zu recyceln. "
+"Ingenieure versammeln sich automatisch, um das erste Element in der "
+"Warteliste für die Produktion zusammenzustellen, bis die erforderlichen "
+"Mengen erreicht sind. dann wechseln sie zu ihrer zweiten Aufgabe; und so "
+"weiter."
 
 #: ../base/ufos/seq_tutorials.ufo:919
 msgid ""
@@ -25875,6 +25974,9 @@ msgid ""
 "and to build laboratories, and then to assign your employees on research "
 "projects. Research starts with few matters..."
 msgstr ""
+"Forschung ist einer der Schlüssel zum Sieg. Sie müssen also Wissenschaftler "
+"einstellen, Labore bauen und dann Ihre Mitarbeiter für Forschungsprojekte "
+"einsetzen. Forschung beginnt mit wenigen Dingen..."
 
 #: ../base/ufos/seq_tutorials.ufo:939
 msgid ""
@@ -25882,6 +25984,10 @@ msgid ""
 "available after you discovered their prerequisites. Studying alien species, "
 "alien artifacts, and alien UFOs is of vital importance."
 msgstr ""
+"Während Sie spielen, nehmen die Themen jedoch schnell zu, und einige "
+"Vorschläge sind erst verfügbar, nachdem Sie ihre Voraussetzungen entdeckt "
+"haben. Das Studium außerirdischer Arten, außerirdischer Artefakte und "
+"außerirdischer UFOs ist von entscheidender Bedeutung."
 
 #: ../base/ufos/seq_tutorials.ufo:960
 msgid ""
@@ -25889,6 +25995,10 @@ msgid ""
 "containment should be enough to study nearly all the creatures you will "
 "meet; if you need space, build another one, or kill some prisoners."
 msgstr ""
+"Das Alien Containment ermöglicht die Erforschung von Aliens, ob tot oder "
+"lebendig. Eine außerirdische Eindämmung sollte ausreichen, um fast alle "
+"Kreaturen zu studieren, denen Sie begegnen werden. Wenn Sie Platz brauchen, "
+"bauen Sie einen anderen oder töten Sie einige Gefangene."
 
 #: ../base/ufos/seq_tutorials.ufo:981
 msgid ""
@@ -25896,6 +26006,9 @@ msgid ""
 "intercept enemy aircraft. Equip their slots to improve their performances, "
 "and choose their crews."
 msgstr ""
+"Verwenden Sie Landungsschiffe, um Soldaten zu ihren Missionen zu bringen, "
+"und Abfangflugzeuge, um feindliche Flugzeuge abzufangen. Rüste ihre Slots "
+"aus, um ihre Leistungen zu verbessern, und wähle ihre Crews aus."
 
 #: ../base/ufos/seq_tutorials.ufo:1001
 msgid ""
@@ -25903,6 +26016,9 @@ msgid ""
 "missions. Check the equipment of your aircraft, and soldiers, before lifting "
 "off."
 msgstr ""
+"Verwenden Sie Kontrollkästchen in der Nähe von Namen, um einen Piloten "
+"auszuwählen, und Soldaten, um Missionen durchzuführen. Überprüfen Sie die "
+"Ausrüstung Ihres Flugzeugs und Ihrer Soldaten, bevor Sie abheben."
 
 #: ../base/ufos/seq_tutorials.ufo:1022
 msgid ""
@@ -25911,6 +26027,12 @@ msgid ""
 "To remove ammunition from an equipped weapon, right-click on it. Check "
 "equipment's properties at the bottom of the screen."
 msgstr ""
+"Soldaten müssen vor Schlachten ausgerüstet sein: Hände, Gürtel, Holster, "
+"Kopfbedeckung oder Rucksack. Ziehen Sie per Drag & Drop, um einen Soldaten "
+"auszurüsten, oder klicken Sie mit der rechten Maustaste auf nicht verwendete "
+"Gegenstände. Um Munition von einer ausgerüsteten Waffe zu entfernen, klicken "
+"Sie mit der rechten Maustaste darauf. Überprüfen Sie die Geräteeigenschaften "
+"am unteren Bildschirmrand."
 
 #: ../base/ufos/seq_tutorials.ufo:1042
 msgid ""
@@ -25931,12 +26053,11 @@ msgstr ""
 
 #: ../base/ufos/seq_tutorials.ufo:1109
 msgid "TACTICAL BATTLES"
-msgstr ""
+msgstr "TAKTISCHE SCHLACHTEN"
 
 #: ../base/ufos/seq_tutorials.ufo:1129
-#, fuzzy
 msgid "Tactical battles"
-msgstr "Taktische Mission"
+msgstr "Taktische Schlachten"
 
 #: ../base/ufos/seq_tutorials.ufo:1166
 msgid ""
@@ -25944,6 +26065,10 @@ msgid ""
 "skirmish, or multiplayer games. Saving during combats is impossible, because "
 "choices and actions have to matter. Think first!"
 msgstr ""
+"Taktische Schlachten bilden den Kern von UFO: Alien Invasion in Kampagnen-, "
+"Gefechts- oder Mehrspielerspielen. Das Speichern während eines Kampfes ist "
+"unmöglich, da Entscheidungen und Aktionen eine Rolle spielen müssen. Denke "
+"erst!"
 
 #: ../base/ufos/seq_tutorials.ufo:1187
 msgid ""
@@ -25951,6 +26076,10 @@ msgid ""
 "situations, or long range shootings; moreover, combats occur during day or "
 "night time. Equip your soldier consequently, and expect for the unexpected."
 msgstr ""
+"Schlachten finden auf sehr unterschiedlichen Karten statt, die "
+"Nahkampfsituationen oder Langstreckenschüsse auslösen. Darüber hinaus finden "
+"Kämpfe tagsüber oder nachts statt. Rüsten Sie Ihren Soldaten konsequent aus "
+"und erwarten Sie das Unerwartete."
 
 #: ../base/ufos/seq_tutorials.ufo:1208
 msgid ""
@@ -25959,6 +26088,11 @@ msgid ""
 "items; to remove ammunition from an equipped weapon, right-click on the "
 "weapon. Check equipment's properties at the bottom of the screen."
 msgstr ""
+"Rüsten Sie Ihre Soldaten nach ihren Fähigkeiten und Fertigkeiten aus und "
+"überlasten Sie sie nicht. Drag & Drop, um einen Soldaten auszurüsten, oder "
+"Rechtsklick auf nicht verwendete Gegenstände; Um Munition von einer "
+"ausgerüsteten Waffe zu entfernen, klicken Sie mit der rechten Maustaste auf "
+"die Waffe. Überprüfen Sie die Geräteeigenschaften am unteren Bildschirmrand."
 
 #: ../base/ufos/seq_tutorials.ufo:1228
 msgid ""
@@ -25967,6 +26101,11 @@ msgid ""
 "soldiers lack strength to carry a full equipment, or when they need a single-"
 "handed weapon to react quickly."
 msgstr ""
+"Primärwaffen sind am gebräuchlichsten. Schwere Waffen verursachen schwere "
+"Schäden, sind jedoch umständlich und funktionieren nur langsam. "
+"Sekundärwaffen erweisen sich als nützlich, wenn Soldaten nicht in der Lage "
+"sind, eine vollständige Ausrüstung zu tragen, oder wenn sie eine "
+"Einhandwaffe benötigen, um schnell reagieren zu können."
 
 #: ../base/ufos/seq_tutorials.ufo:1248
 msgid ""
@@ -25974,6 +26113,10 @@ msgid ""
 "(walls, floors, smoke, etc.) at close range. Note that some weapons, like "
 "sniper weapons, fire powerful shots that partially pierce through materials."
 msgstr ""
+"Scout vor dem Schießen. Verwenden Sie eine IR-Schutzbrille, um Hindernisse "
+"(Wände, Böden, Rauch usw.) aus nächster Nähe zu durchschauen. Beachten Sie, "
+"dass einige Waffen, wie Scharfschützenwaffen, mächtige Schüsse abgeben, die "
+"teilweise durch Materialien stechen."
 
 #: ../base/ufos/seq_tutorials.ufo:1268
 msgid ""
@@ -25982,6 +26125,10 @@ msgid ""
 "grenades cover your troops. Incendiary grenades deal damages, and block "
 "strategic passages. Smoke and fire last few rounds."
 msgstr ""
+"Offensivgranaten sind nützlich für indirektes Feuer. Flasbangs betäuben "
+"Feinde in einer Runde (die Granate muss direkt vor ihnen explodieren). "
+"Rauchgranaten bedecken Ihre Truppen. Brandgranaten verursachen Schaden und "
+"blockieren strategische Passagen. Rauch und Feuer in den letzten Runden."
 
 #: ../base/ufos/seq_tutorials.ufo:1288
 msgid ""
@@ -25990,18 +26137,29 @@ msgid ""
 "stunning level reaches their max. current health points; panicked soldiers "
 "act randomly. Equip armours to increase survival rate."
 msgstr ""
+"Verwenden Sie Medikits, um verwundete oder ohnmächtige oder in Panik "
+"geratene Soldaten zu heilen: Verwundete Soldaten bluten oft und sterben, "
+"wenn sie nicht geheilt sind. betäubte Soldaten werden ohnmächtig, wenn das "
+"atemberaubende Level ihr Maximum erreicht. aktuelle Gesundheitspunkte; In "
+"Panik geratene Soldaten handeln nach dem Zufallsprinzip. Rüste dich aus, um "
+"die Überlebensrate zu erhöhen."
 
 #: ../base/ufos/seq_tutorials.ufo:1309
 msgid ""
 "Using the battlescape interface is easy, with mouse, or shortcuts (in the "
 "'Options' menu). Top of the screen: total of spotted enemies, and level view."
 msgstr ""
+"Die Verwendung der BattleScape-Oberfläche ist einfach, mit der Maus oder "
+"Verknüpfungen (im Menü \"Optionen\"). Oben auf dem Bildschirm: Gesamtzahl "
+"der entdeckten Feinde und Ebenenansicht."
 
 #: ../base/ufos/seq_tutorials.ufo:1329
 msgid ""
 "Red highlights hostile forces. Green highlights your troops. Yellow "
 "highlights civilians (whom you have to protect during campaigns)."
 msgstr ""
+"Rot hebt feindliche Kräfte hervor. Grün hebt Ihre Truppen hervor. Gelb "
+"markiert Zivilisten (die Sie während der Kampagnen schützen müssen)."
 
 #: ../base/ufos/seq_tutorials.ufo:1349
 msgid ""
@@ -26010,6 +26168,11 @@ msgid ""
 "bring your soldiers back to the rescue zone before aborting missions, or "
 "they will be lost."
 msgstr ""
+"Schaltflächen rechts von oben nach unten: Enddrehung, Optionen, Mission "
+"abbrechen, Radar und Rettungszone. Verwenden Sie Radar, um zu überprüfen, "
+"was Personen sehen. Versuchen Sie, Ihre Soldaten in die Rettungszone "
+"zurückzubringen, bevor Sie Missionen abbrechen. Andernfalls gehen sie "
+"verloren."
 
 #: ../base/ufos/seq_tutorials.ufo:1369
 msgid ""
@@ -26018,6 +26181,12 @@ msgid ""
 "current health, time units, or morale of your troops. Time units are spent "
 "when firing, moving, crouching, and so on. No time units, no actions."
 msgstr ""
+"Unten auf dem Bildschirm: Eine Truppleiste ermöglicht die schnelle Auswahl "
+"von Soldaten. Verwenden Sie den Pfeil, um die Truppleiste auszublenden oder "
+"anzuzeigen, und verwenden Sie Filter, um die aktuelle Gesundheit, "
+"Zeiteinheiten oder Moral Ihrer Truppen anzuzeigen. Zeiteinheiten werden beim "
+"Schießen, Bewegen, Hocken usw. verwendet. Keine Zeiteinheiten, keine "
+"Aktionen."
 
 #: ../base/ufos/seq_tutorials.ufo:1389
 msgid ""
@@ -26026,6 +26195,12 @@ msgid ""
 "rectangle showing weapon in hands to open the firemodes menu (with needed "
 "time units and ammunition), or to reload your weapon."
 msgstr ""
+"Verwenden Sie die Schaltflächen, um das Inventar zu öffnen, aktuelle "
+"Soldatenstatistiken anzuzeigen, Kopfbedeckungen zu verwenden, das "
+"Reaktionsfeuer ein- / auszuschalten, zu stehen und sich zu ducken. Klicken "
+"Sie auf das Rechteck mit der Waffe in den Händen, um das Feuermodus-Menü "
+"(mit den erforderlichen Zeiteinheiten und Munition) zu öffnen oder Ihre "
+"Waffe neu zu laden."
 
 #: ../base/ufos/seq_tutorials.ufo:1410
 msgid ""
@@ -26034,6 +26209,11 @@ msgid ""
 "default reaction fire mode. To enable reaction fire, a fighter must have "
 "time units left, and you must set the reaction fire on."
 msgstr ""
+"'Reaktionsfeuer' ist eine Möglichkeit, als Reaktion auf die sichtbaren "
+"Aktionen der Feinde zu feuern. Wenn eine Waffe ein Reaktionsfeuer zulässt, "
+"kann jeder ihrer Feuermodi als Standardreaktionsfeuermodus festgelegt "
+"werden. Um ein Reaktionsfeuer zu aktivieren, muss ein Kämpfer noch "
+"Zeiteinheiten haben und Sie müssen das Reaktionsfeuer aktivieren."
 
 #: ../base/ufos/seq_tutorials.ufo:1430
 msgid ""
@@ -26042,21 +26222,27 @@ msgid ""
 "required to fire. Concentrate reaction fires for a better covering. And "
 "check the radar to avoid opponents' reaction fire."
 msgstr ""
+"Reaktionsfeuer wird ausgelöst, wenn ein Kämpfer ohne Unterbrechung eine "
+"feindliche Einheit sieht, die mehr Zeiteinheiten verbringt als die Anzahl "
+"der Zeiteinheiten, die zum Feuern erforderlich sind. Konzentrierte "
+"Reaktionsbrände für eine bessere Abdeckung. Und überprüfen Sie das Radar, um "
+"das Reaktionsfeuer des Gegners zu vermeiden."
 
 #: ../base/ufos/seq_tutorials.ufo:1476
 msgid "SKIRMISH GAMES"
-msgstr ""
+msgstr "SCHARMÜTZEL SPIELE"
 
 #: ../base/ufos/seq_tutorials.ufo:1496
-#, fuzzy
 msgid "Skirmish games"
-msgstr "Einzelgefecht"
+msgstr "Scharmützel Spiele"
 
 #: ../base/ufos/seq_tutorials.ufo:1523
 msgid ""
 "Skirmish games are quickly set battles where a player confronts a squad "
 "controlled by the computer."
 msgstr ""
+"Scharmützelspiele sind schnell festgelegte Schlachten, in denen ein Spieler "
+"einem vom Computer kontrollierten Trupp gegenübersteht."
 
 #: ../base/ufos/seq_tutorials.ufo:1537
 msgid ""
@@ -26065,6 +26251,11 @@ msgid ""
 "rush' option be checked, the game would keep spawning aliens until you lose, "
 "or quit (to win, kill all the aliens before ending your turn)."
 msgstr ""
+"Definieren Sie zunächst die Kampfumgebung: Karte, Tageszeit (Tag oder "
+"Nacht), Anzahl der Gegner und Flugzeuge auf der Karte (falls vorhanden). "
+"Sollte die Option \"Alien Rush\" aktiviert sein, spawnt das Spiel so lange "
+"Aliens, bis Sie verlieren oder aufhören (um zu gewinnen, töten Sie alle "
+"Aliens, bevor Sie Ihren Zug beenden)."
 
 #: ../base/ufos/seq_tutorials.ufo:1558
 msgid ""
@@ -26072,6 +26263,10 @@ msgid ""
 "an equipment profile for your opponent; select your side; limit the size of "
 "your squad if you want to. And begin the game."
 msgstr ""
+"Bauen Sie als nächstes Ihren Trupp auf. Verwenden Sie die "
+"Standardeinstellungen für einen schnellen Start: Wählen Sie ein "
+"Ausrüstungsprofil für Ihren Gegner aus; wähle deine Seite aus; Begrenzen Sie "
+"die Größe Ihres Teams, wenn Sie möchten. Und beginne das Spiel."
 
 #: ../base/ufos/seq_tutorials.ufo:1578
 msgid ""
@@ -26080,6 +26275,11 @@ msgid ""
 "troops with the equipment allowed by the equipment profile. Optionally, save "
 "your squad for further battles. And begin the game."
 msgstr ""
+"Wenn die Standardeinstellungen nicht zu Ihnen passen, passen Sie einen neuen "
+"Kader an: Wählen Sie nach Auswahl Ihrer Seite Ihr Ausrüstungsprofil aus. "
+"Erstelle deinen Trupp und rüste deine Truppen mit der Ausrüstung aus, die "
+"das Ausrüstungsprofil zulässt. Speichern Sie Ihren Trupp optional für "
+"weitere Schlachten. Und beginne das Spiel."
 
 #: ../base/ufos/seq_tutorials.ufo:1610 ../base/ufos/seq_tutorials.ufo:1752
 msgid ""
@@ -26087,15 +26287,18 @@ msgid ""
 "previously uploaded. To connect, use the same account you use to log in to "
 "the official forum of the game (http://ufoai.org/forum)."
 msgstr ""
+"Sie können Squads auch vom Server des UFO: Alien Invasion herunterladen, den "
+"Sie zuvor hochgeladen haben. Verwenden Sie zum Herstellen einer Verbindung "
+"dasselbe Konto, mit dem Sie sich im offiziellen Forum des Spiels (http://"
+"ufoai.org/forum) anmelden."
 
 #: ../base/ufos/seq_tutorials.ufo:1656
 msgid "MULTIPLAYER GAMES"
-msgstr ""
+msgstr "MEHRSPIELER SPIELE"
 
 #: ../base/ufos/seq_tutorials.ufo:1676
-#, fuzzy
 msgid "Multiplayer games"
-msgstr "Mehrspieler"
+msgstr "Mehrspieler Spiele"
 
 #: ../base/ufos/seq_tutorials.ufo:1707
 msgid ""
@@ -26122,6 +26325,11 @@ msgid ""
 "settings include some 'Max. soldiers' limit, currently loaded soldiers will "
 "be selected in a top-down order from the list."
 msgstr ""
+"Erstellen Sie zunächst ein Team. Wählen Sie dann eine Seite aus der Liste "
+"aus und rüsten Sie Ihre Truppen aus. Speichern Sie Ihren Trupp optional für "
+"weitere Schlachten. Warnung: Wenn die Servereinstellungen einige 'Max. "
+"Soldatenlimit, aktuell geladene Soldaten werden in einer Top-Down-"
+"Reihenfolge aus der Liste ausgewählt."
 
 #: ../base/ufos/seq_tutorials.ufo:1773
 msgid ""
@@ -26129,6 +26337,9 @@ msgid ""
 "lobby and wait for invitations. You still can play singleplayer while "
 "waiting."
 msgstr ""
+"Schließen Sie sich als normaler Spieler an, um nach Servern zu suchen. Wenn "
+"keine, stellen Sie eine Verbindung zur Lobby her und warten Sie auf "
+"Einladungen. Sie können immer noch Einzelspieler spielen, während Sie warten."
 
 #: ../base/ufos/seq_tutorials.ufo:1794
 msgid ""
@@ -26136,6 +26347,11 @@ msgid ""
 "from the list of public, or dedicated, servers listed by our master server; "
 "or type an IP address to reach a private server."
 msgstr ""
+"Wenn ein Server verfügbar ist, stellen Sie eine Verbindung her, um seine "
+"Einstellungen zu überprüfen: Wählen Sie entweder einen aus der Liste der "
+"öffentlichen oder dedizierten Server aus, die von unserem Master-Server "
+"aufgelistet werden. oder geben Sie eine IP-Adresse ein, um einen privaten "
+"Server zu erreichen."
 
 #: ../base/ufos/seq_tutorials.ufo:1814
 msgid ""
@@ -26144,6 +26360,11 @@ msgid ""
 "server. If you're happy with it, bookmark the server to quickly access it "
 "later, and connect to the game to start playing."
 msgstr ""
+"Serverinformationen enthalten Details zum Server: Karte, Spielversion, "
+"Benutzerliste usw. Ihre Version des Spiels muss mit der Version des Servers "
+"übereinstimmen. Wenn Sie damit zufrieden sind, setzen Sie ein Lesezeichen "
+"auf den Server, um später schnell darauf zugreifen zu können, und stellen "
+"Sie eine Verbindung zum Spiel her, um mit dem Spielen zu beginnen."
 
 #: ../base/ufos/seq_tutorials.ufo:1835
 msgid ""
@@ -26152,6 +26373,11 @@ msgid ""
 "'RCON-password' for remote control of the server by administrators, and "
 "consider setting a 'Server-Password' for players trying to join."
 msgstr ""
+"Erstellen Sie als Serveradministrator einen Server, um ein Spiel auf Ihrem "
+"Computer zu hosten: Definieren Sie die Kampfumgebung (Karte, Tageszeit "
+"usw.). Legen Sie ein 'RCON-Passwort' für die Fernsteuerung des Servers durch "
+"Administratoren fest und erwägen Sie, ein 'Server-Passwort' für Spieler "
+"festzulegen, die versuchen, sich anzumelden."
 
 #: ../base/ufos/seq_tutorials.ufo:1855
 msgid ""
@@ -26160,6 +26386,11 @@ msgid ""
 "(recommended). Start the game when you feel ready (when all players check "
 "the 'Are you ready?' checkbox, the game starts automatically)."
 msgstr ""
+"Sobald Ihr Server gestartet wurde, erreichen Sie eine "
+"Schlachtlandschaftsansicht. Sie können dort noch einige Optionen festlegen: "
+"maximale Soldaten und rundes Zeitlimit (empfohlen). Starten Sie das Spiel, "
+"wenn Sie sich bereit fühlen (wenn alle Spieler das Kontrollkästchen \"Sind "
+"Sie bereit?\" Aktivieren, wird das Spiel automatisch gestartet)."
 
 #: ../base/ufos/seq_tutorials.ufo:1876
 msgid ""
@@ -26170,6 +26401,13 @@ msgid ""
 "commands, and 'cvarlist' to get the list of variables for dynamic "
 "configuration of the engine."
 msgstr ""
+"Als Administrator können Sie die Remote-Konsole verwenden, um Einstellungen "
+"von einem verbundenen Client aus zu ändern, Karten neu zu starten oder "
+"Spieltypen zu ändern. Um auf die Konsole zuzugreifen, aktivieren Sie die "
+"Verknüpfungen im Menü \"Optionen\". Geben Sie in der Konsole 'rcon <Befehl> "
+"<Parameter>' ein, um rcon-Befehle auszuführen. Verwenden Sie 'cmdlist', um "
+"die Liste der Befehle abzurufen, und 'cvarlist', um die Liste der Variablen "
+"für die dynamische Konfiguration der Engine abzurufen."
 
 #: ../base/ufos/team_aliens.ufo:10
 msgid "Taman"
@@ -26782,38 +27020,32 @@ msgid "Expand/Collapse"
 msgstr "Ausklappen/Einklappen"
 
 #: ../base/ufos/ui/_assets_base.ufo:671
-#, fuzzy
 msgid "Previous base"
-msgstr "Vorheriger Feuermodus"
+msgstr "Vorherige Basis"
 
 #: ../base/ufos/ui/_assets_base.ufo:692
-#, fuzzy
 msgid "Next base"
-msgstr "Neue Basis anlegen"
+msgstr "Nächste Basis"
 
 #: ../base/ufos/ui/_assets_base.ufo:777 ../base/ufos/ui/_menu.ufo:88
-#, fuzzy
 msgid "Back to base"
-msgstr "Zurück zur Basisübersicht"
+msgstr "Zurück zur Basis"
 
 #: ../base/ufos/ui/_assets_hud.ufo:135
 msgid "current level"
 msgstr "Derzeitiger Wert"
 
 #: ../base/ufos/ui/_assets_hud.ufo:156
-#, fuzzy
 msgid "raise the level"
-msgstr "Erstelle diese Ebene"
+msgstr "eine Ebene Höher"
 
 #: ../base/ufos/ui/_assets_hud.ufo:168
-#, fuzzy
 msgid "lower the level"
-msgstr "Erstelle diese Ebene"
+msgstr "Eine Ebene runter"
 
 #: ../base/ufos/ui/_assets_map.ufo:36
-#, fuzzy
 msgid "Time of day"
-msgstr "Tipp des Tages"
+msgstr "Uhrzeit"
 
 #: ../base/ufos/ui/_assets_map.ufo:99
 msgid "Enemies"
@@ -26824,9 +27056,8 @@ msgid "The maximum number of enemies you could face"
 msgstr "Die maximale Anzahl von Feinden, denen Sie begegnen können"
 
 #: ../base/ufos/ui/_assets_map.ufo:167
-#, fuzzy
 msgid "Alien rush"
-msgstr "Ansturm"
+msgstr "Alien Ansturm"
 
 #: ../base/ufos/ui/_assets_map.ufo:192
 msgid "Dropship"
@@ -27235,9 +27466,8 @@ msgstr "Mausklick zum Fortfahren"
 
 #: ../base/ufos/ui/endgame.ufo:62 ../base/ufos/ui/endgame.ufo:85
 #: ../base/ufos/ui/endgame.ufo:86
-#, fuzzy
 msgid "scrollbar"
-msgstr "Bildlauf"
+msgstr "Scrollleiste"
 
 #: ../base/ufos/ui/endgame.ufo:111
 msgid "Thank you for playing UFO:Alien Invasion"
@@ -27539,9 +27769,8 @@ msgid "Healthy"
 msgstr "Gesund"
 
 #: ../base/ufos/ui/hud_.ufo:55
-#, fuzzy
 msgid "Use this firemode for reaction fire"
-msgstr "Aktiviere diesen Feuermodus für das Reaktionsfeuer"
+msgstr "Verwenden Sie diesen Feuermodus für Reaktionsfeuer"
 
 #: ../base/ufos/ui/hud_.ufo:330
 msgid "tt"
@@ -27561,32 +27790,28 @@ msgid "Toggle reaction fire."
 msgstr "Reaktionsfeuer umschalten."
 
 #: ../base/ufos/ui/hud_default.ufo:412
-#, fuzzy
 msgid "Stand"
-msgstr "Stanley (Falklandinseln)"
+msgstr "Stehen"
 
 #: ../base/ufos/ui/hud_default.ufo:438
-#, fuzzy
 msgid "Crouch"
-msgstr "Geduckt gehen"
+msgstr "Hocken"
 
 #: ../base/ufos/ui/hud_default.ufo:456
-#, fuzzy
 msgid "Crouched"
-msgstr "Ducken reserviert"
+msgstr "Geduckt"
 
 #: ../base/ufos/ui/hud_default.ufo:485
-#, fuzzy
 msgid "Standing"
-msgstr "Außerordentlich"
+msgstr "Stehen"
 
 #: ../base/ufos/ui/hud_default.ufo:668
 msgid "View other hand"
-msgstr ""
+msgstr "Andere Hand anzeigen"
 
 #: ../base/ufos/ui/hud_default.ufo:753
 msgid "Hide squad"
-msgstr ""
+msgstr "Trupp verdecken"
 
 #: ../base/ufos/ui/hud_default.ufo:824 ../base/ufos/ui/hud_default.ufo:826
 #: ../base/ufos/ui/hud_default.ufo:843
@@ -27594,14 +27819,12 @@ msgid "btn"
 msgstr ""
 
 #: ../base/ufos/ui/hud_default.ufo:854
-#, fuzzy
 msgid "Show squad"
-msgstr "Zeige Tastenbelegung"
+msgstr "Trupp einblenden"
 
 #: ../base/ufos/ui/hud_default.ufo:918
-#, fuzzy
 msgid "Jump to alien"
-msgstr "Italienisch"
+msgstr "Zum Alien springen"
 
 #: ../base/ufos/ui/hud_default.ufo:958
 msgid "Jump to civilian"
@@ -27609,7 +27832,7 @@ msgstr "Springe zu Zivilisten"
 
 #: ../base/ufos/ui/hud_default.ufo:963
 msgid "*"
-msgstr ""
+msgstr "*"
 
 #: ../base/ufos/ui/hud_default.ufo:1003
 msgid "End Turn"
@@ -27873,7 +28096,7 @@ msgstr "Folge uns auf twitter"
 
 #: ../base/ufos/ui/main.ufo:62
 msgid "CAMPAIGN"
-msgstr ""
+msgstr "KAMPANGE"
 
 #: ../base/ufos/ui/main.ufo:73
 msgid "SKIRMISH"
@@ -27885,7 +28108,7 @@ msgstr "MEHRSPIELER"
 
 #: ../base/ufos/ui/main.ufo:106 ../base/ufos/ui/tutorials.ufo:12
 msgid "TUTORIALS"
-msgstr ""
+msgstr "TUTORIALS"
 
 #: ../base/ufos/ui/main.ufo:117
 msgid "DEVELOPERS"
@@ -28259,12 +28482,11 @@ msgstr "Rundenzeitbeschränkung in Sekunden:"
 
 #: ../base/ufos/ui/multiplayer.ufo:700
 msgid "START SERVER"
-msgstr ""
+msgstr "STARTE SERVER"
 
 #: ../base/ufos/ui/multiplayer.ufo:721
-#, fuzzy
 msgid "Teams"
-msgstr "Team"
+msgstr "Teams"
 
 #: ../base/ufos/ui/multiplayer.ufo:738
 msgid "Download new teams"
@@ -28280,11 +28502,11 @@ msgstr "Neues Team generieren"
 
 #: ../base/ufos/ui/multiplayer.ufo:756
 msgid "GENERATE"
-msgstr ""
+msgstr "GENERIEREN"
 
 #: ../base/ufos/ui/multiplayer.ufo:807
 msgid "Close web panel"
-msgstr ""
+msgstr "Webpanel Schließen"
 
 #: ../base/ufos/ui/multiplayer.ufo:808
 msgid "CLOSE"
@@ -28292,7 +28514,7 @@ msgstr "SCHLIEßEN"
 
 #: ../base/ufos/ui/multiplayer.ufo:823
 msgid "REFRESH"
-msgstr ""
+msgstr "AKTUALISIERUNG"
 
 #: ../base/ufos/ui/multiplayer.ufo:830
 msgid "Serverfilter:"
@@ -28384,9 +28606,8 @@ msgid "Server Info"
 msgstr "Serverinformationen"
 
 #: ../base/ufos/ui/multiplayer.ufo:1618
-#, fuzzy
 msgid "Map screenshots"
-msgstr "Screenshot speichern"
+msgstr "Karten-Screenshots"
 
 #: ../base/ufos/ui/multiplayer.ufo:1692
 msgid "Userlist"
@@ -28453,15 +28674,15 @@ msgstr ""
 
 #: ../base/ufos/ui/options.ufo:112 ../base/ufos/ui/options.ufo:113
 msgid "GENERAL"
-msgstr ""
+msgstr "ALLGEMEIN"
 
 #: ../base/ufos/ui/options.ufo:128 ../base/ufos/ui/options.ufo:129
 msgid "VIDEO"
-msgstr ""
+msgstr "VIDEO"
 
 #: ../base/ufos/ui/options.ufo:142 ../base/ufos/ui/options.ufo:143
 msgid "SOUND"
-msgstr ""
+msgstr "KLANG"
 
 #: ../base/ufos/ui/options.ufo:156 ../base/ufos/ui/options.ufo:157
 msgid "KEYS"
@@ -28469,7 +28690,7 @@ msgstr "TASTEN"
 
 #: ../base/ufos/ui/options.ufo:170 ../base/ufos/ui/options.ufo:171
 msgid "GAMEPLAY"
-msgstr ""
+msgstr "SPIELWEISE"
 
 #: ../base/ufos/ui/options.ufo:184 ../base/ufos/ui/options.ufo:185
 #: ../base/ufos/ui/options.ufo:2461 ../base/ufos/ui/options.ufo:2599
@@ -28490,18 +28711,16 @@ msgid "Cursor tooltips"
 msgstr "Cursor-Tooltips"
 
 #: ../base/ufos/ui/options.ufo:334
-#, fuzzy
 msgid "Main menu tips"
-msgstr "Menü Optionen"
+msgstr "Hauptmenü Tips"
 
 #: ../base/ufos/ui/options.ufo:360
-#, fuzzy
 msgid "Pre-cache menu models"
-msgstr "Modelle im Speicher vorhalten:"
+msgstr "Pre-Cache-Menümodelle"
 
 #: ../base/ufos/ui/options.ufo:361
 msgid "Increases speed of game menus"
-msgstr ""
+msgstr "Erhöht die Geschwindigkeit der Spielmenüs"
 
 #: ../base/ufos/ui/options.ufo:381
 msgid "Geoscape Options"
@@ -28513,7 +28732,7 @@ msgstr "3D Geoscape"
 
 #: ../base/ufos/ui/options.ufo:403
 msgid "View the geoscape as a 3D globe"
-msgstr ""
+msgstr "Betrachten Sie die Geoscape als 3D-Globus"
 
 #: ../base/ufos/ui/options.ufo:429 ../base/ufos/ui/options.ufo:1652
 #: ../base/ufos/ui/options.ufo:1784
@@ -28535,30 +28754,28 @@ msgid "1.0"
 msgstr "1.00"
 
 #: ../base/ufos/ui/options.ufo:504
-#, fuzzy
 msgid "2"
-msgstr "2D"
+msgstr "2"
 
 #: ../base/ufos/ui/options.ufo:509
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: ../base/ufos/ui/options.ufo:514
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #: ../base/ufos/ui/options.ufo:519
 msgid "8"
-msgstr ""
+msgstr "8"
 
 #: ../base/ufos/ui/options.ufo:524
-#, fuzzy
 msgid "10"
-msgstr "1.00"
+msgstr "1.0"
 
 #: ../base/ufos/ui/options.ufo:529
 msgid "12"
-msgstr ""
+msgstr "12"
 
 #: ../base/ufos/ui/options.ufo:547
 msgid "Display FPS"
@@ -28573,9 +28790,8 @@ msgid "Skip Intro Video"
 msgstr "Introvideo überspringen"
 
 #: ../base/ufos/ui/options.ufo:575
-#, fuzzy
 msgid "Don't play the video when loading the game."
-msgstr "Introvideo bei Spielstart nicht abspielen."
+msgstr "Das Video nicht abspielen, während das Spiel läd."
 
 #: ../base/ufos/ui/options.ufo:612
 msgid "Resolution"
@@ -28586,9 +28802,8 @@ msgid "Ratio"
 msgstr "Verhältnis"
 
 #: ../base/ufos/ui/options.ufo:630
-#, fuzzy
 msgid "Display resolutions in this ratio"
-msgstr "Zeige nur Auflösungen an die diese Bildschirmrate unterstützen"
+msgstr "Zeigen Sie Auflösungen in diesem Verhältnis an"
 
 #: ../base/ufos/ui/options.ufo:670
 msgid "Others"
@@ -28603,19 +28818,16 @@ msgid "View the game in fullscreen instead of windowed mode"
 msgstr "Sehen Sie sich das Spiel im Vollbildmodus statt im Fenstermodus an"
 
 #: ../base/ufos/ui/options.ufo:723
-#, fuzzy
 msgid "Stretch screen"
-msgstr "Strecken"
+msgstr "Bildschirm strecken"
 
 #: ../base/ufos/ui/options.ufo:724
-#, fuzzy
 msgid "Stretch screen to fit monitors with 4:3 ratio"
-msgstr "Bild auf 4:3 Verhältnis strecken."
+msgstr "Bild auf für 4:3 Verhältnis Bildschirme strecken."
 
 #: ../base/ufos/ui/options.ufo:750
-#, fuzzy
 msgid "Gamma / Brightness"
-msgstr "Helligkeit:"
+msgstr "Gamma / Helligkeit"
 
 #: ../base/ufos/ui/options.ufo:781
 msgid "Geoscape sunlight"
@@ -28626,9 +28838,8 @@ msgid "Brightness of sunlight on the geoscape"
 msgstr "Helligkeit des Sonnenlichts auf Geoscape"
 
 #: ../base/ufos/ui/options.ufo:814
-#, fuzzy
 msgid "Screenshot format"
-msgstr "Bildschirmschnappschuss-Format:"
+msgstr "Screenshot-Format"
 
 #: ../base/ufos/ui/options.ufo:815
 msgid "The file format screenshots will be saved in"
@@ -28659,108 +28870,92 @@ msgid "HIGH"
 msgstr "HOCH"
 
 #: ../base/ufos/ui/options.ufo:972
-#, fuzzy
 msgid "Shaders"
-msgstr "GLSL shaders:"
+msgstr "Schattierungen"
 
 #: ../base/ufos/ui/options.ufo:973
-#, fuzzy
 msgid "Enhanced visual techniques like post-processing effects"
-msgstr "Schattierungs-Nachbearbeitungs-Effekte aktivieren"
+msgstr "Verbesserte visuelle Techniken wie Nachbearbeitungseffekte"
 
 #: ../base/ufos/ui/options.ufo:1000
-#, fuzzy
 msgid "Post-processing effects"
-msgstr "Schattierungs-Nachbearbeitungs-Effekte:"
+msgstr "Nachbearbeitungseffekte"
 
 #: ../base/ufos/ui/options.ufo:1001
 msgid "Effects like light bloom and reflected light"
-msgstr ""
+msgstr "Effekte wie Lichtblüte und reflektiertes Licht"
 
 #: ../base/ufos/ui/options.ufo:1019 ../base/ufos/ui/options.ufo:2489
 msgid "Advanced OpenGL options"
 msgstr "Erweiterte Open GL Optionen"
 
 #: ../base/ufos/ui/options.ufo:1041
-#, fuzzy
 msgid "Real-time lighting effects"
-msgstr "Aktiviere Echtzeitbeleuchtung."
+msgstr "Echtzeit-Lichteffekte"
 
 #: ../base/ufos/ui/options.ufo:1070
 msgid "Max dynamic lights"
-msgstr ""
+msgstr "Max dynamische Lichter"
 
 #: ../base/ufos/ui/options.ufo:1071
-#, fuzzy
 msgid "Set available hardware-accelerated dynamic lights"
-msgstr ""
-"Ändere die Anzahl der hardware-beschleunigten dynamischen Lichtquellen."
+msgstr "Verfügbare hardwarebeschleunigte dynamische Lichter einstellen"
 
 #: ../base/ufos/ui/options.ufo:1110
-#, fuzzy
 msgid "Bumpmapping / Normalmapping"
-msgstr "Textur-Normalfilterung:"
+msgstr "Bumpmapping / Normalmapping "
 
 #: ../base/ufos/ui/options.ufo:1149
 msgid "Environmental effects"
-msgstr ""
+msgstr "Umwelteffekte"
 
 #: ../base/ufos/ui/options.ufo:1157
-#, fuzzy
 msgid "Coronas"
-msgstr "Strahlkranz:"
+msgstr "Korona"
 
 #: ../base/ufos/ui/options.ufo:1158
 msgid "Lighting effect"
-msgstr ""
+msgstr "Lichteffekt"
 
 #: ../base/ufos/ui/options.ufo:1176
-#, fuzzy
 msgid "Materials"
-msgstr "Außerirdische Werkstoffe"
+msgstr "Materialien"
 
 #: ../base/ufos/ui/options.ufo:1177
 msgid "Texture animations, blending and other effects"
-msgstr ""
+msgstr "Texturanimationen, Überblendungen und andere Effekte"
 
 #: ../base/ufos/ui/options.ufo:1195
-#, fuzzy
 msgid "Flares"
-msgstr "Lichtreflexionen:"
+msgstr "Fackeleffekt"
 
 #: ../base/ufos/ui/options.ufo:1196
-#, fuzzy
 msgid "Light reflections"
-msgstr "Auswahl der Ausrüstung"
+msgstr "Lichtreflexionen"
 
 #: ../base/ufos/ui/options.ufo:1214
-#, fuzzy
 msgid "Fog"
-msgstr "Nebel:"
+msgstr "Nebel"
 
 #: ../base/ufos/ui/options.ufo:1215
-#, fuzzy
 msgid "Fades distant objects on the battlescape"
-msgstr "Objekte auf Karte zentrieren"
+msgstr "Verblasst entfernte Objekte in der Schlachtlandschaft"
 
 #: ../base/ufos/ui/options.ufo:1233
 msgid "Weather"
 msgstr "Wetter"
 
 #: ../base/ufos/ui/options.ufo:1234
-#, fuzzy
 msgid "Rain and snow on the battlescape"
-msgstr "Zurück zum Schlachtfeld"
+msgstr "Regen und Schnee auf der Schlachtlandschaft"
 
 #: ../base/ufos/ui/options.ufo:1264
-#, fuzzy
 msgid "Advanced Video Options"
-msgstr "Erweiterte Audioeinstellungen"
+msgstr "Erweiterte Videoeinstellungen"
 
 #: ../base/ufos/ui/options.ufo:1297
-#, fuzzy
 msgid "Enable audio"
-msgstr "Sound aktivieren:"
+msgstr "Sound aktivieren"
 
 #: ../base/ufos/ui/options.ufo:1324
 msgid "Music volume"
@@ -28788,172 +28983,155 @@ msgstr "Höhere Abtastraten sorgen für eine bessere Audioqualität"
 
 #: ../base/ufos/ui/options.ufo:1458
 msgid "11025 kHz"
-msgstr ""
+msgstr "11025 kHz"
 
 #: ../base/ufos/ui/options.ufo:1463
 msgid "22050 kHz"
-msgstr ""
+msgstr "22050 kHz"
 
 #: ../base/ufos/ui/options.ufo:1468
 msgid "44100 kHz"
-msgstr ""
+msgstr "44100 kHz"
 
 #: ../base/ufos/ui/options.ufo:1473
 msgid "48000 kHz"
-msgstr ""
+msgstr "48000 kHz"
 
 #: ../base/ufos/ui/options.ufo:1480
-#, fuzzy
 msgid "Apply Sample Rate"
-msgstr "Audio-Abtastrate:"
+msgstr "Abtastrate anwenden"
 
 #: ../base/ufos/ui/options.ufo:1534
-#, fuzzy
 msgid "Battlescape view configuration"
-msgstr "Schlachtfeld-Kamera-Einstellungen"
+msgstr "Konfiguration der Battlescape-Ansicht"
 
 #: ../base/ufos/ui/options.ufo:1552
-#, fuzzy
 msgid "Scroll speed"
-msgstr "Scrollen:"
+msgstr "Scrollgeschwindigkeit"
 
 #: ../base/ufos/ui/options.ufo:1585
-#, fuzzy
 msgid "Rotation speed"
-msgstr "Rotation:"
+msgstr "Drehgeschwindigkeit"
 
 #: ../base/ufos/ui/options.ufo:1618
 msgid "Inertia"
-msgstr ""
+msgstr "Trägheit"
 
 #: ../base/ufos/ui/options.ufo:1619
 msgid "Higher values will cause the camera to stop more gradually"
-msgstr ""
+msgstr "Höhere Werte führen dazu, dass die Kamera langsamer stoppt"
 
 #: ../base/ufos/ui/options.ufo:1653
 msgid "Maps optimized for values above 10"
-msgstr ""
+msgstr "Karten optimiert für Werte über 10"
 
 #: ../base/ufos/ui/options.ufo:1666
 msgid "Values above 90 will result in inverted views"
-msgstr ""
+msgstr "Werte über 90 führen zu invertierten Ansichten"
 
 #: ../base/ufos/ui/options.ufo:1678
 msgid "Pitch"
-msgstr ""
+msgstr "Tonhöhe"
 
 #: ../base/ufos/ui/options.ufo:1809
-#, fuzzy
 msgid "Zoom constraints"
-msgstr "Heranzoomen"
+msgstr "Zoomeinschränkungen"
 
 #: ../base/ufos/ui/options.ufo:1915
-#, fuzzy
 msgid "Zoom speed"
-msgstr "Feuergeschwindigkeit"
+msgstr "Zoomgeschwindigkeit"
 
 #: ../base/ufos/ui/options.ufo:1948
-#, fuzzy
 msgid "Center view"
-msgstr "Sicht zentrieren:"
+msgstr "Sicht zentrieren"
 
 #: ../base/ufos/ui/options.ufo:1975
-#, fuzzy
 msgid "Isometric view"
-msgstr "Isometrisch:"
+msgstr "Isometrische Ansicht"
 
 #: ../base/ufos/ui/options.ufo:1976
 msgid "3D rendering without perspective for an old-school look"
-msgstr ""
+msgstr "3D-Rendering ohne Perspektive für eine Old-School-Ansicht"
 
 #: ../base/ufos/ui/options.ufo:2007
-#, fuzzy
 msgid "Battlescape gameplay options"
-msgstr "Schlachtfeld-Einstellungen"
+msgstr "Battlescape-Spieloptionen"
 
 #: ../base/ufos/ui/options.ufo:2025
-#, fuzzy
 msgid "Actor speed"
-msgstr "Akteurgeschwindigkeit:"
+msgstr "Akteurgeschwindigkeit"
 
 #: ../base/ufos/ui/options.ufo:2057
-#, fuzzy
 msgid "Confirm actions"
-msgstr "Aktionen bestätigen:"
+msgstr "Aktionen bestätigen"
 
 #: ../base/ufos/ui/options.ufo:2058
 msgid "Confirm your actions on the battlefield before committing"
-msgstr ""
+msgstr "Bestätige deine Aktionen auf dem Schlachtfeld, bevor du sie festlegst"
 
 #: ../base/ufos/ui/options.ufo:2073
 msgid "Never"
-msgstr ""
+msgstr "Niemals"
 
 #: ../base/ufos/ui/options.ufo:2077
-#, fuzzy
 msgid "When moving"
-msgstr "Entfernen"
+msgstr "Beim Bewegen"
 
 #: ../base/ufos/ui/options.ufo:2081
 msgid "Always"
-msgstr ""
+msgstr "Immer"
 
 #: ../base/ufos/ui/options.ufo:2099
 msgid "Stand when moving"
-msgstr ""
+msgstr "Stehen Sie beim Bewegen"
 
 #: ../base/ufos/ui/options.ufo:2100
-#, fuzzy
 msgid ""
 "Soldiers will automatically stand when ordered to move while they are "
 "crouched"
 msgstr ""
-"Auto-Aufstehen stellt ein, ob ein Soldat automatisch aufstehen soll, wenn er "
-"sich bewegen soll während er in der Hocke ist."
+"Soldaten stehen automatisch auf, wenn ihnen befohlen wird, sich zu bewegen, "
+"während sie sich hocken"
 
 #: ../base/ufos/ui/options.ufo:2127
-#, fuzzy
 msgid "Battlescape interface"
-msgstr "Schlachtfeld"
+msgstr "Battlescape-Schnittstelle"
 
 #: ../base/ufos/ui/options.ufo:2177
-#, fuzzy
 msgid "Advanced Video options"
-msgstr "Erweiterte Audioeinstellungen"
+msgstr "Erweiterte Videooptionen"
 
 #: ../base/ufos/ui/options.ufo:2198
-#, fuzzy
 msgid "Max texture resolution"
-msgstr "Texturauflösung:"
+msgstr "Maximale Texturauflösung"
 
 #: ../base/ufos/ui/options.ufo:2212 ../base/ufos/ui/options.ufo:2407
 msgid "256"
-msgstr ""
+msgstr "256"
 
 #: ../base/ufos/ui/options.ufo:2216 ../base/ufos/ui/options.ufo:2411
 msgid "512"
-msgstr ""
+msgstr "512"
 
 #: ../base/ufos/ui/options.ufo:2220 ../base/ufos/ui/options.ufo:2415
 msgid "1024"
-msgstr ""
+msgstr "1024"
 
 #: ../base/ufos/ui/options.ufo:2224 ../base/ufos/ui/options.ufo:2419
 msgid "2048"
-msgstr ""
+msgstr "2048"
 
 #: ../base/ufos/ui/options.ufo:2228
 msgid "4096"
-msgstr ""
+msgstr "4096"
 
 #: ../base/ufos/ui/options.ufo:2232
 msgid "8192"
-msgstr ""
+msgstr "8192"
 
 #: ../base/ufos/ui/options.ufo:2250
-#, fuzzy
 msgid "Texture filtering"
-msgstr "Textur-Einstellungen"
+msgstr "Texturfilterung"
 
 #: ../base/ufos/ui/options.ufo:2264
 #: client/cgame/campaign/cp_basedefence_callbacks.cpp:214
@@ -28964,36 +29142,32 @@ msgstr "Keine"
 
 #: ../base/ufos/ui/options.ufo:2268
 msgid "Bilinear only"
-msgstr ""
+msgstr "Nur bilinear"
 
 #: ../base/ufos/ui/options.ufo:2272
-#, fuzzy
 msgid "Mipmaps only"
-msgstr "Nur Bewegungen"
+msgstr "Nur Mipmaps"
 
 #: ../base/ufos/ui/options.ufo:2276
-#, fuzzy
 msgid "Bilinear and mipmaps"
-msgstr "Bilineare Filterung, Antialiasing"
+msgstr "Bilinear und mipmaps"
 
 #: ../base/ufos/ui/options.ufo:2280
-#, fuzzy
 msgid "Trilinear and mipmaps"
-msgstr "Trilineare Filterung, Antialiasing"
+msgstr "Trilinear und mipmaps"
 
 #: ../base/ufos/ui/options.ufo:2284
-#, fuzzy
 msgid "Bi-/trilinear and mipmaps"
-msgstr "Bilineare Filterung, Antialiasing"
+msgstr "Bi- / Trilinear- und Mipmaps"
 
 #: ../base/ufos/ui/options.ufo:2302
-#, fuzzy
 msgid "Texture compression"
-msgstr "Texturkompression einschalten"
+msgstr "Texturkomprimierung"
 
 #: ../base/ufos/ui/options.ufo:2303
 msgid "Improves memory performance but reduces visual quality"
 msgstr ""
+"Verbessert die Speicherleistung, verringert jedoch die visuelle Qualität"
 
 #: ../base/ufos/ui/options.ufo:2329
 msgid "LOD"
@@ -29001,52 +29175,47 @@ msgstr ""
 
 #: ../base/ufos/ui/options.ufo:2330
 msgid "Reduce distant texture sizes for better performance"
-msgstr ""
+msgstr "Reduzieren Sie entfernte Texturgrößen für eine bessere Leistung"
 
 #: ../base/ufos/ui/options.ufo:2356
 msgid "Anisotropic filtering"
-msgstr ""
+msgstr "Anisotrope Filterung"
 
 #: ../base/ufos/ui/options.ufo:2357
 msgid "Distant textures appear sharper at higher resolutions"
-msgstr ""
+msgstr "Entfernte Texturen erscheinen bei höheren Auflösungen schärfer"
 
 #: ../base/ufos/ui/options.ufo:2392
-#, fuzzy
 msgid "Lightmap size"
-msgstr "Licht-Map Blockgröße"
+msgstr "Lightmap-Größe"
 
 #: ../base/ufos/ui/options.ufo:2393
 msgid "High resolution creates smoother shadows"
-msgstr ""
+msgstr "Hohe Auflösung erzeugt glattere Schatten"
 
 #: ../base/ufos/ui/options.ufo:2437
-#, fuzzy
 msgid "Lightmap brightness"
-msgstr "Leichtes Gewicht"
+msgstr "Helligkeit der Lightmap"
 
 #: ../base/ufos/ui/options.ufo:2510
-#, fuzzy
 msgid "Vertex Buffers"
-msgstr "Vertex buffer:"
+msgstr "Scheitelpunktpuffer"
 
 #: ../base/ufos/ui/options.ufo:2536
-#, fuzzy
 msgid "Multisample Buffers"
-msgstr "Multisampling-Puffer / Swap-Intervall:"
+msgstr "Multisample-Puffer"
 
 #: ../base/ufos/ui/options.ufo:2537
 msgid "Antialias GL primitives (more buffers create smoother edges)"
-msgstr ""
+msgstr "Antialias GL-Grundelemente (mehr Puffer erzeugen glattere Kanten)"
 
 #: ../base/ufos/ui/options.ufo:2572
-#, fuzzy
 msgid "Swap Interval"
-msgstr "Swap Intervall:"
+msgstr "Swap-Intervall"
 
 #: ../base/ufos/ui/options.ufo:2573
 msgid "Higher values will typically provide better results"
-msgstr ""
+msgstr "Höhere Werte liefern normalerweise bessere Ergebnisse"
 
 #: ../base/ufos/ui/options.ufo:2668
 msgid "MENU"
@@ -29054,11 +29223,11 @@ msgstr "MENÜ"
 
 #: ../base/ufos/ui/options.ufo:2669
 msgid "GLOBAL"
-msgstr ""
+msgstr "GLOBAL"
 
 #: ../base/ufos/ui/options.ufo:2670
 msgid "BATTLESCAPE"
-msgstr ""
+msgstr "SCHLACHTANSICHT"
 
 #: ../base/ufos/ui/popup_baseattack.ufo:41
 msgid "Assemble Team"
@@ -29212,9 +29381,8 @@ msgid "Item"
 msgstr "Gegenstände"
 
 #: ../base/ufos/ui/production.ufo:117
-#, fuzzy
 msgid "Stored"
-msgstr "Lager"
+msgstr "Gelagert"
 
 #: ../base/ufos/ui/production.ufo:335 ../base/ufos/ui/production.ufo:345
 msgid "Change the production amount"
@@ -29261,17 +29429,16 @@ msgid "HIRE"
 msgstr "BEAUFTRAGEN"
 
 #: ../base/ufos/ui/research.ufo:232
-#, fuzzy
 msgid "Laboratory space"
-msgstr "Labor"
+msgstr "Laborraum"
 
 #: ../base/ufos/ui/research.ufo:257
 msgid "BUILD LAB"
-msgstr ""
+msgstr "LABOR BAUEN"
 
 #: ../base/ufos/ui/skirmish.ufo:60
 msgid "<1>"
-msgstr ""
+msgstr "<1>"
 
 #: ../base/ufos/ui/skirmish.ufo:153
 msgid "MAP"
@@ -29283,7 +29450,7 @@ msgstr "GESCHWADER"
 
 #: ../base/ufos/ui/skirmish.ufo:186
 msgid "BEGIN"
-msgstr ""
+msgstr "START"
 
 #: ../base/ufos/ui/stats.ufo:47
 msgid "Costs"
@@ -29294,9 +29461,8 @@ msgid "Nations"
 msgstr "Nationen"
 
 #: ../base/ufos/ui/stats.ufo:77
-#, fuzzy
 msgid "Click on a nation for its funding graph"
-msgstr "Klicken für die Finanzierungsgraphen"
+msgstr "Klicken Sie auf eine Nation, um deren Finanzierungsdiagramm anzuzeigen"
 
 #: ../base/ufos/ui/stats.ufo:129
 msgid "Bases"
@@ -29453,7 +29619,7 @@ msgstr "Aktive Transfers anzeigen"
 
 #: ../base/ufos/ui/transfer.ufo:676
 msgid "Clear"
-msgstr ""
+msgstr "Löschen"
 
 #: ../base/ufos/ui/transfer.ufo:677
 msgid "Clear cargo"
@@ -30028,9 +30194,8 @@ msgid "Sniper Rifle EP Magazine"
 msgstr "Schafschützengewehrmagazin"
 
 #: ../base/ufos/weapons_plasma.ufo:647
-#, fuzzy
 msgid "Shotgun EP Slugs"
-msgstr "Wuchtgeschosse"
+msgstr "Schrotflinte PE Munition"
 
 #: ../base/ufos/weapons_ugv.ufo:22
 msgid "ugv_ares_w"
@@ -30312,59 +30477,53 @@ msgstr ""
 "- Verbleibend: %i\n"
 
 #: client/battlescape/cl_hud.cpp:1257
-#, fuzzy
 msgid "- Reduced accuracy"
-msgstr "- Verringert %s\n"
+msgstr "- Reduzierte Genauigkeit"
 
 #: client/battlescape/cl_hud.cpp:1259
-#, fuzzy
 msgid "- Reduced shooting speed"
-msgstr "Feuergeschwindigkeit"
+msgstr "- Reduzierte Schußgeschwindigkeit"
 
 #: client/battlescape/cl_hud.cpp:1261
-#, fuzzy
 msgid "- Reduced movement speed"
-msgstr "Bewegunsgeschwindigkeit"
+msgstr "-Reduzierte Bewegungsgeschwindigkeit"
 
 #: client/battlescape/cl_hud.cpp:1263
-#, fuzzy
 msgid "- Reduced sight range"
-msgstr "Sichtweite"
+msgstr "- Reduzierte Sichtweite"
 
 #: client/battlescape/cl_hud.cpp:1265
-#, fuzzy
 msgid "- Reduced reaction speed"
-msgstr "Reaktionszeit"
+msgstr "- Reduzierte Reaktionsgeschwindigkeit"
 
 #: client/battlescape/cl_hud.cpp:1267
-#, fuzzy
 msgid "- Reduced TUs"
-msgstr "- Verringert %s\n"
+msgstr "- Reduced ZEs"
 
 #: client/battlescape/cl_hud.cpp:1296
-#, fuzzy, c-format
+#, c-format
 msgid "%s: bleeding (%i)\n"
-msgstr "Verwundet %s (blutend: %i)\n"
+msgstr "%s: blutend (%i)\n"
 
 #: client/battlescape/cl_hud.cpp:1296
-#, fuzzy, c-format
+#, c-format
 msgid "%s: deteriorating (%i)\n"
-msgstr "Beschädigt %s (Abnutzung: %i)\n"
+msgstr "% s: Verschlechterung (% i)\n"
 
 #: client/battlescape/cl_hud.cpp:1298
-#, fuzzy, c-format
+#, c-format
 msgid "%s: damaged\n"
-msgstr "Schaden:\t%i\n"
+msgstr "%s: Schaden \n"
 
 #: client/battlescape/cl_hud.cpp:1298
-#, fuzzy, c-format
+#, c-format
 msgid "%s: wounded\n"
-msgstr "%s geladen\n"
+msgstr "%s: verwunded\n"
 
 #: client/battlescape/cl_hud.cpp:1302
 #, c-format
 msgid "- HP loss per turn: %i\n"
-msgstr ""
+msgstr "- AD-Verlust pro Runde: %i\n"
 
 #: client/battlescape/cl_hud.cpp:1344 client/cl_inventory_callbacks.cpp:389
 msgid ""
@@ -30408,9 +30567,8 @@ msgid "Can't perform action - not enough TUs!"
 msgstr "Aktion nicht ausführbar - nicht genug Zeiteinheiten!"
 
 #: client/battlescape/cl_hud_callbacks.cpp:170
-#, fuzzy
 msgid "Disabled crouching/standing up TUs reservation."
-msgstr "Automatisches Ducken/Aufstehen deaktiviert."
+msgstr "Deaktiviert Hocken / Stehen ZEs Reservierung."
 
 #: client/battlescape/cl_hud_callbacks.cpp:174
 #, c-format
@@ -30573,12 +30731,12 @@ msgid "A member of team %i was revitalised."
 msgstr "Ein Mitglied des Teams %i ist wieder bei Sinnen."
 
 #: client/battlescape/events/event/actor/e_event_actorstatechange.cpp:74
-#, fuzzy, c-format
+#, c-format
 msgid ""
 "%s is dazed!\n"
 "Enemy used flashbang!"
 msgstr ""
-"Soldat ist benommen!\n"
+"%s ist benommen!\n"
 "Gegner benutzte Blendgranate!"
 
 #: client/battlescape/events/event/actor/e_event_actorstatechange.cpp:77
@@ -30619,9 +30777,9 @@ msgid "Nothing - should not be displayed"
 msgstr "Nichts - sollte nicht angezeigt werden"
 
 #: client/cgame/campaign/cp_aircraft.cpp:368
-#, fuzzy, c-format
+#, c-format
 msgid "at %s"
-msgstr "Flugzeug %s"
+msgstr "bei %s"
 
 #: client/cgame/campaign/cp_aircraft.cpp:370
 msgid "refuelling"
@@ -30885,9 +31043,8 @@ msgid "Pilot killed in action"
 msgstr "Pilot im Einsatz getötet"
 
 #: client/cgame/campaign/cp_airfight.cpp:534
-#, fuzzy
 msgid "A PHALANX craft has been destroyed"
-msgstr "PHALANX Absturzstelle"
+msgstr "Ein PHALANX-Flugzeug wurde zerstört"
 
 #: client/cgame/campaign/cp_aliencont.cpp:103
 msgid "You can't hold live aliens yet. Aliens died."
@@ -31158,9 +31315,8 @@ msgstr ""
 "zu den anderen Gebäuden!"
 
 #: client/cgame/campaign/cp_base_callbacks.cpp:601
-#, fuzzy
 msgid "Destroy Alien Containment"
-msgstr "Quarantänestation"
+msgstr "Zerstöre Alien Quarantänestation"
 
 #: client/cgame/campaign/cp_base_callbacks.cpp:601
 msgid ""
@@ -31176,9 +31332,8 @@ msgid "Containment"
 msgstr "Quarantäne"
 
 #: client/cgame/campaign/cp_base_callbacks.cpp:602
-#, fuzzy
 msgid "Go to the Alien Containment without destroying building"
-msgstr "Zum Rekrutierungsmenü gehen ohne das Gebäude abzureißen"
+msgstr "Gehe zum Alien-Quaratänestation, ohne das Gebäude zu abzureißen"
 
 #: client/cgame/campaign/cp_base_callbacks.cpp:603
 #: client/cgame/campaign/cp_base_callbacks.cpp:614
@@ -32589,11 +32744,12 @@ msgstr "Fehler beim Extrahieren der Daten"
 
 #: client/cgame/campaign/cp_save.cpp:271
 msgid "Saving is not possible: Campaign is not active."
-msgstr ""
+msgstr "Speichern ist nicht möglich: Kampagne ist nicht aktiv."
 
 #: client/cgame/campaign/cp_save.cpp:276
 msgid "Saving is not possible: Cannot save the Battlescape."
 msgstr ""
+"Speichern ist nicht möglich: Schlachtenansicht kann nicht gespeichert werden."
 
 #: client/cgame/campaign/cp_save.cpp:281
 msgid "Saving is not possible: No base is built."
@@ -33044,17 +33200,15 @@ msgstr "Max. Soldaten:\t%i\n"
 #: client/cgame/campaign/cp_ufopedia.cpp:377
 #, c-format
 msgid "Equipment slots:\t%i %s, %i %s\n"
-msgstr ""
+msgstr "Ausrüstungssteckplätze:\t%i %s,%i %s\n"
 
 #: client/cgame/campaign/cp_ufopedia.cpp:378
-#, fuzzy
 msgid "weapon"
 msgstr "Waffe"
 
 #: client/cgame/campaign/cp_ufopedia.cpp:379
-#, fuzzy
 msgid "electronics"
-msgstr "Elektronik:\t%i von %i"
+msgstr "Elektronik"
 
 #: client/cgame/campaign/cp_ufopedia.cpp:418
 #, c-format
@@ -33533,28 +33687,28 @@ msgid "No"
 msgstr "Nein"
 
 #: client/cl_inventory_callbacks.cpp:197
-#, fuzzy, c-format
+#, c-format
 msgid "Permanent:\t%s\n"
-msgstr "Servername:\t%s\n"
+msgstr "Permanent:\t%s\n"
 
 #: client/cl_inventory_callbacks.cpp:197 po/OTHER_STRINGS:4
 msgid "Yes"
 msgstr "Ja"
 
 #: client/cl_inventory_callbacks.cpp:198
-#, fuzzy, c-format
+#, c-format
 msgid "Duration:\t%i\n"
-msgstr "Aktion:\t%s\n"
+msgstr "Dauer:\t%i\n"
 
 #: client/cl_inventory_callbacks.cpp:199
-#, fuzzy, c-format
+#, c-format
 msgid "Period:\t%i\n"
-msgstr "Munition:\t%i\n"
+msgstr "Zeitraum:\t%i\n"
 
 #: client/cl_inventory_callbacks.cpp:201
-#, fuzzy, c-format
+#, c-format
 msgid "Price:\t%i c\n"
-msgstr "Kredit:\t%i c\n"
+msgstr "Preis:\t%i c\n"
 
 #: client/cl_inventory_callbacks.cpp:203
 #, c-format
@@ -33693,9 +33847,8 @@ msgid "Highly Proficient"
 msgstr "Sehr geübt"
 
 #: client/cl_team.cpp:189
-#, fuzzy
 msgid "Exceptional"
-msgstr "Abfangen"
+msgstr "Außergewöhnlich"
 
 #: client/cl_team.cpp:191
 msgid "Outstanding"
@@ -33918,42 +34071,42 @@ msgstr "Aktion nicht ausführbar - nicht genug Munition!"
 #: game/g_mission.cpp:63
 #, c-format
 msgid "%s forces are attacking the %s!"
-msgstr ""
+msgstr "%s Streitkräfte greifen die %s an!"
 
 #: game/g_mission.cpp:66
 #, c-format
 msgid "%s forces are attacking %s target zone!"
-msgstr ""
+msgstr "%s Streitkräfte greifen %s Zielgebiet an!"
 
 #: game/g_mission.cpp:90
 #, c-format
 msgid "%s forces have occupied the %s!"
-msgstr ""
+msgstr "%s Streitkräfte haben das %s besetzt!"
 
 #: game/g_mission.cpp:92
 #, c-format
 msgid "%s forces have occupied their target zone!"
-msgstr ""
+msgstr "%s Streitkräfte haben ihre Zielzone besetzt!"
 
 #: game/g_mission.cpp:112
-#, fuzzy, c-format
+#, c-format
 msgid "The %s was placed at the %s."
-msgstr "Das Landungsschiff ist an der Absturzstelle angekommen."
+msgstr "Das %s ist an der %s angekommen."
 
 #: game/g_mission.cpp:114
-#, fuzzy, c-format
+#, c-format
 msgid "The %s was placed."
-msgstr "Gegenstand wurde platziert."
+msgstr "%s wurde Platziert."
 
 #: game/g_mission.cpp:140
 #, c-format
 msgid "%s forces have left the %s!"
-msgstr ""
+msgstr "%s Streitkräfte haben %s verlassen!"
 
 #: game/g_mission.cpp:142
-#, fuzzy, c-format
+#, c-format
 msgid "%s forces have left their target zone!"
-msgstr "Aliens haben Zielbereich betreten!"
+msgstr "%s Streitkräfte haben ihre Zielzone verlassen!"
 
 #: game/g_reaction.cpp:642
 msgid "No reaction fire enabled weapon."
